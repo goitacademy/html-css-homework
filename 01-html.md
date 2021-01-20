@@ -2,7 +2,7 @@
 
 - Создай репозиторий `goit-markup-hw-01`.
 - Переведи макет страницы из
-  [домашнего задания #1](<https://www.figma.com/file/VQ02IIL57fc33U4GP1WEdf/Web-Studio-(Version-2.0)?node-id=1572%3A0>)
+  [домашнего задания #1](https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1)
   в HTML-разметку, без CSS оформления.
 - Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
   GitHub-репозитория.
