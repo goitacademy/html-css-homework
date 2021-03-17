@@ -1,18 +1,18 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Czytaj w innych językach: [Rosyjski](README.md), [Ukraiński](README.ua.md),
+[Polski](README.pl.md).**
 
-# Домашнее задание
+# Zadanie domowe
 
-- Создай репозиторий `goit-markup-hw-01`.
-- Выполни HTML-разметку макета страницы
-  [**домашнего задания #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>),
-  без CSS оформления.
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Utwórz repozytorium `goit-markup-hw-01`.
+- Wykonaj znaczniki HTML układu strony
+  [**zadania domowego #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>),
+  bez stylów CSS. 
+- Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka
+  repozytorium GitHub. 
 
-## Критерии приёма работы наставником
+## Kryteria akceptacji projektu przez mentora 
 
-### Проект
+### Projekt
 
 **`«A1»`** Главный HTML-файл называется `index.html`.
 
