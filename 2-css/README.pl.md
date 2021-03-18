@@ -1,7 +1,7 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Czytaj w innych językach: [Rosyjski](README.md), [Ukraiński](README.ua.md),
+[Polski](README.pl.md).**
 
-# Домашнее задание
+# Zadanie domowe
 
 - Создай репозиторий `goit-markup-hw-02`.
 - Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
