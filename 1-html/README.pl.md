@@ -14,57 +14,57 @@
 
 ### Projekt
 
-**`«A1»`** Главный HTML-файл называется `index.html`.
+**`«A1»`** Główny plik HTML ma nazwę `index.html`.
 
-**`«A2»`** В корне проекта есть папка `images` с изображениями.
+**`«A2»`** W katalogu głównym projektu znajduje się folder `images` z obrazami. 
 
-**`«A3»`** В названиях файлов нет заглавных букв, пробелов и транслита, только
-буквы и слова английского языка.
+**`«A3»`** W nazwach plików nie ma wielkich liter, spacji i transliteracji, 
+a jedynie litery i słowa w języku angielskim. 
 
-**`«A4»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A4»`** Kod źródłowy jest sformatowany za pomocą `Prettier`.
 
-**`«A5»`** Все изображения и текстовый контент взяты из макета.
+**`«A5»`** Wszystkie obrazy i zawartość tekstowa są z układu.
 
-**`«A6»`** Все растровые изображения оптимизированы используя
+**`«A6»`** Wszystkie mapy bitowe są optymalizowane przy użyciu 
 [squoosh](https://squoosh.app/).
 
-**`«A7»`** Код написан следуя
-[**руководству**](http://sadcitizen.me/code-guide/).
+**`«A7»`** Kod jest napisany zgodnie z
+[**tutorialem**](http://sadcitizen.me/code-guide/).
 
-### Разметка
+### Znaczniki HTML
 
-**`«B1»`** Разметка страницы `Студия` набрана в файле `index.html`.
+**`«B1»`** Znaczniki HTML strony `Studio` są wpisywane w pliku `index.html`.
 
-**`«B2»`** Выполнена HTML-разметка всех элементов макета.
+**`«B2»`** Wykonane są znaczniki HTML wszystkich elementów układu. 
 
-**`«B3»`** Теги использованы согласно их семантического смысла.
+**`«B3»`** Tagi są używane zgodnie z ich znaczeniem semantycznym. 
 
-**`«B4»`** HTML проходит проверку [**валидатором**](http://validator.w3.org/nu/)
-без ошибок.
+**`«B4»`** HTML jest weryfikowany przez [**walidator**](http://validator.w3.org/nu/)
+bez błędów. 
 
-**`«B5»`** В разметке есть теги для выделения основной структуры страницы:
-`<header>`, `<main>` и `<footer>`.
+**`«B5»`** Znaczniki HTML zawierają tagi do podkreślania głównej struktury strony: 
+`<header>`, `<main>` i `<footer>`.
 
-**`«B6»`** Логотип в хедере и футере - это ссылка с текстом, не изображение.
+**`«B6»`** Logo w nagłówku i stopce to link z tekstem, a nie obraz. 
 
-**`«B7»`** Тег `<nav>` использован единожды на странице – в хедере.
+**`«B7»`** Tag `<nav>` został użyty raz na stronie - w nagłówku. 
 
-**`«B8»`** Контакты в хедере (почта и телефон) находятся вне тега `<nav>`.
+**`«B8»`** Kontakty w nagłówku (poczta i telefon) znajdują się poza tagiem `<nav>`.
 
-**`«B9»`** Тег `<h1>` использован один раз на странице.
+**`«B9»`** Tag `<h1>` został użyty jeden raz na stronie
 
-**`«B10»`** Элемент с текстом `"Заказать услугу"` - это кнопка с
+**`«B10»`** Element z tekstem `"Zamów usługę"` - to przycisk z
 `type="button"`.
 
-**`«B11»`** Заголовки секций размечены тегом `<h2>`.
+**`«B11»`** Nagłówki sekcji są oznaczone tagiem `<h2>`.
 
-**`«B12»`** У тегов `<img>` указаны атрибуты размеров, как минимум `width`.
+**`«B12»`** Tagi `<img>` mają atrybuty wymiarów, co najmniej `width`.
 
-**`«B13»`** У тегов `<img>` есть атрибут `alt`, который заполнен кратким
-описанием о том, что изображено на картинке.
+**`«B13»`** Tagi `<img>` mają atrybut `alt`, który jest wypełniony krótkim
+opisem tego, co jest pokazane na obrazku. 
 
-**`«B14»`** Изображения экспортированы из макета в формате `jpg`.
+**`«B14»`** Obrazy wyeksportowane z układu w formacie `jpg`.
 
-**`«B15»`** Группы однотипных элементов собраны в списки `<ul>`.
+**`«B15»`** Grupy elementów tego samego typu są gromadzone na listach `<ul>`.
 
-**`«B16»`** Тег `<address>` использован только в футере.
+**`«B16»`** Tag `<address>` został użyty tylko w stopce. 
