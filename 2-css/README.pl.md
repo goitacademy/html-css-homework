@@ -93,7 +93,7 @@ lub focusie z klawiatury mają stan aktywny wskazany w układzie
 używane są zmienne CSS. 
 
 **`«С7»`** Element `<body>` ma właściwość `font-family` z dominującą czcionką
-`Roboto` układzie.
+`Roboto` w układzie.
 
 **`«С8»`** Alternatywne opcje czcionek i typ rodziny (bezszeryfowa) są określone 
 na końcu wyliczenia `font-family` dla elementu `<body>`.
