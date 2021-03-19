@@ -75,52 +75,52 @@ są podłączone z usługi Google Fonts za pomocą jednego linku. Wymagana waga 
 **`«B14»`** Wewnątrz znaczników przycisku nie ma żadnych dodatkowych elementów, 
 takich jak spany lub linki. 
 
-## Оформление
+## Stylizacja
 
-**`«C1»`** Нет глобальных стилей элементов кроме `<body>`.
+**`«C1»`** Nie ma stylów globalnych dla elementów innych niż `<body>`.
 
-**`«C2»`** Для оформления используются селекторы класса.
+**`«C2»`** Do stylizacji służą selektory klasy.
 
-**`«C3»`** В стилях отсутствует `!important`.
+**`«C3»`** W stylach nie ma `!important`.
 
-**`«C4»`** У интерактивных элементов (кнопок и ссылок), при наведении мышкой или
-фокусе с клавиатуры, есть активное состояние указанное в макете (изменение
-цвета).
+**`«C4»`** Elementy interaktywne (przyciski i linki) po najechaniu myszką 
+lub focusie z klawiatury mają stan aktywny wskazany w układzie 
+(zmiana koloru). 
 
-**`«С5»`** Текст контактов в хедере и футере меняет цвет при ховере и фокусе.
+**`«С5»`** Tekst kontaktów w nagłówku i stopce zmienia kolor po najechaniu kursorem i focusie. 
 
-**`«C6»`** Для хранения палитры цветов макета (текст, фон, выделение)
-используются CSS-переменные.
+**`«C6»`** Do przechowywania palety kolorów układu (tekst, tło, zaznaczenie)
+używane są zmienne CSS. 
 
-**`«С7»`** Для элемента `<body>` задано свойство `font-family` с доминантным на
-макете шрифтом `Roboto`.
+**`«С7»`** Element `<body>` ma właściwość `font-family` z dominującą czcionką
+`Roboto` układzie.
 
-**`«С8»`** Указаны альтернативные варианты шрифта и тип семейства (без засечек)
-в конце перечисления `font-family` у элемента `<body>`.
+**`«С8»`** Alternatywne opcje czcionek i typ rodziny (bezszeryfowa) są określone 
+na końcu wyliczenia `font-family` dla elementu `<body>`.
 
-**`«С9»`** Семейство шрифтов `Roboto` явно задано только для элемента `<body>`,
-остальные элементы наследуют его.
+**`«С9»`** Rodzina czcionek `Roboto` jest wyraźnie określona tylko dla elementu `<body>`,
+pozostałe elementy go dziedziczą. 
 
-**`«С10»`** Для элемента `<body>` задано свойство `color` с доминантным на
-макете цветом текста. Остальной текст наследует или переопределяет это значение.
+**`«С10»`** Element `<body>` ma właściwość `color` z dominującym w 
+układzie kolorem tekstu. Reszta tekstu dziedziczy lub zastępuje tę wartość. 
 
-**`«С11»`** Размер шрифта (свойство `font-size`) всех текстовых элементов точно
-соответствует значениям из макета.
+**`«С11»`** Rozmiar czcionki (właściwość `font-size`) wszystkich elementów tekstowych 
+dokładnie odpowiada wartościom z układu. 
 
-**`«С12»`** Высота строки (свойство `line-height`) всех текстовых элементов
-точно соответствует значениям из макета и задана как множитель, а не в `px`.
+**`«С12»`** Wysokość wiersza (właściwość `line-height`) wszystkich elementów tekstowych
+dokładnie odpowiada wartościom z układu i jest określona jako mnożnik, a nie w `px`.
 
-**`«С13»`** Цвет (свойство `color`) всех текстовых элементов точно соответствует
-значениям из макета.
+**`«С13»`** Kolor (właściwość `color`) wszystkich elementów tekstowych dokładnie 
+odpowiada wartościom z układu. 
 
-**`«С14»`** Вес шрифта (свойство `font-weight`) всех текстовых элементов точно
-соответствует значениям из макета.
+**`«С14»`** Waga czcionki (właściwość `font-weight`) wszystkich elementów tekstowych 
+dokładnie odpowiada wartościom z układu. 
 
-**`«С15»`** Вес шрифта (свойство `font-weight`) явно указан только если значение
-в макете отличается от стандартного для этого элемента в браузере.
+**`«С15»`** Waga czcionki (właściwość `font-weight`) jest wyraźnie określona tylko wtedy, gdy wartość
+w układzie różni się od domyślnej dla tego elementu w przeglądarce. 
 
-**`«С16»`** Кнопкам задано свойство `cursor` со значением `pointer`.
+**`«С16»`** Przyciski mają określoną właściwość `cursor` z wartością `pointer`.
 
-**`«С17»`** В стилях не повторяются значения свойств, которые заданы браузером
-по умолчнаию. Например, ссылкам не нужно указывать `cursor: pointer`, а абзацам
-`font-style: normal` или `font-weight: 400`.
+**`«С17»`** W stylach nie powtarza się domyślnych wartości właściwości ustawionych przez 
+przeglądarkę. Na przykład, linki nie muszą mieć `cursor: pointer`, akapity nie muszą mieć
+`font-style: normal` lub `font-weight: 400`.
