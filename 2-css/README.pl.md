@@ -3,18 +3,18 @@
 
 # Zadanie domowe
 
-- Создай репозиторий `goit-markup-hw-02`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Выполни разметку и оформление макета страницы
-  [**домашнего задания #2**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
-- Для оптимизации изображений используй сервис
+- Utwórz repozytorium `goit-markup-hw-02`.
+- Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy.
+- Wykonaj znaczniki HTML i projektowanie układu strony
+  [**zadania domowego #2**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
+- Do optymalizacji obrazów skorzystaj z usługi
   [**squoosh**](https://squoosh.app/).
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka
+  repozytorium GitHub.
 
 ## Критерии приёма работы наставником
 
-### Проект
+### Projekt
 
 **`«A1»`** В корне проекта есть папка `images` с изображениями.
 
