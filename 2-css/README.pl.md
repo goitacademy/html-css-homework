@@ -12,68 +12,68 @@
 - Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka
   repozytorium GitHub.
 
-## Критерии приёма работы наставником
+## Kryteria akceptacji projektu przez mentora
 
 ### Projekt
 
-**`«A1»`** В корне проекта есть папка `images` с изображениями.
+**`«A1»`** W katalogu głównym projektu znajduje się folder `images` z obrazami.
 
-**`«A2»`** В корне проекта есть папка `css` с файлами стилей.
+**`«A2»`** W katalogu głównym projektu znajduje się folder `css` z plikami stylów. 
 
-**`«A3»`** Все стили написаны в одном файле `styles.css`, который находится в
-папке `css`.
+**`«A3»`** Wszystkie style są zapisane w jednym pliku `styles.css`, który znajduje się 
+w folderze `css`.
 
-**`«A4»`** В названиях файлов нет заглавных букв, пробелов и транслита, только
-буквы и слова английского языка.
+**`«A4»`** W nazwach plików nie ma wielkich liter, spacji i transliteracji, 
+a jedynie litery i słowa w języku angielskim. 
 
-**`«A5»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A5»`** Kod źródłowy jest sformatowany za pomocą `Prettier`.
 
-**`«A6»`** Все изображения и текстовый контент взяты из макета.
+**`«A6»`** Wszystkie obrazy i zawartość tekstowa są z układu. 
 
-**`«A7»`** Все растровые изображения оптимизированы используя
+**`«A7»`** Wszystkie mapy bitowe są optymalizowane przy użyciu 
 [squoosh](https://squoosh.app/).
 
-**`«A8»`** Код написан следуя
-[**руководству**](http://sadcitizen.me/code-guide/).
+**`«A8»`** Kod jest napisany zgodnie z
+[**tutorialem**](http://sadcitizen.me/code-guide/).
 
-### Разметка
+### Znaczniki HTML
 
-**`«B1»`** Разметка страницы `Портфолио` набрана в файле `portfolio.html`.
+**`«B1»`** Znaczniki HTML strony `Portfolio` wpisują się w pliku `portfolio.html`.
 
-**`«B2»`** Выполнена HTML-разметка всех элементов макета.
+**`«B2»`** Wykonane są znaczniki HTML wszystkich elementów układu. 
 
-**`«B3»`** Теги использованы согласно их семантического смысла.
+**`«B3»`** Tagi są używane zgodnie z ich znaczeniem semantycznym. 
 
-**`«B4»`** HTML проходит проверку [**валидатором**](http://validator.w3.org/nu/)
-без ошибок.
+**`«B4»`** HTML jest weryfikowany przez [**walidator**](http://validator.w3.org/nu/)
+bez błędów.
 
-**`«B5»`** Имена классов описательные и понятные другому разработчику.
+**`«B5»`** Nazwy klas są opisowe i zrozumiałe dla innego programisty. 
 
-**`«B6»`** Имена классов не содержат заглавных букв, пробелов, транслита и
-названий тегов, только буквы и слова английского языка. Если имя класса состоит
-из нескольких слов, они разделяются дефисом.
+**`«B6»`** Nazwy klas nie zawierają wielkich liter, spacji, transliteracji i 
+nazw tagów, a jedynie litery i słowa w języku angielskim. Jeśli nazwa klasy składa 
+się z kilku słów, są one oddzielone myślnikiem. 
 
-**`«B7»`** Атрибут `href` навигационных ссылок `Студия` и `Портфолио` содержит
-относительный путь к HTML-файлам этих страниц. При нажатии по ссылке происходит
-переход на соответствующую страницу в текущей вкладке браузера.
+**`«B7»`** Atrybut `href` linków nawigacyjnych `Studio` i `Portfolio` zawiera
+względną ścieżkę do plików HTML tych stron. Kliknięcie linku powoduje przejście 
+do odpowiedniej strony w bieżącej karcie przeglądarki.  
 
-**`«B8»`** У тегов `<img>` указаны атрибуты размеров, как минимум `width`.
+**`«B8»`** Tagi `<img>` mają atrybuty wymiarów, co najmniej `width`.
 
-**`«B9»`** Изображения экспортированы из макета в формате `jpg`.
+**`«B9»`** Obrazy są wyeksportowane z układu w formacie `jpg`.
 
-**`«B10»`** Группы однотипных элементов собраны в списки `<ul>`.
+**`«B10»`** Grupy elementów tego samego typu są gromadzone na listach `<ul>`.
 
-**`«B11»`** Фильтр на странице `Портфолио` выполнен списком кнопок, каждой из
-которых задан атрибут `type="button"`.
+**`«B11»`** Filtr na stronie `Portfolio` jest tworzony przez listę przycisków, 
+z których każdy ma ustawiony atrybut `type="button"`.
 
-**`«B12»`** Разметка хедера и футера одинаковая на всех страницах.
+**`«B12»`** Znaczniki nagłówka i stopki są takie same na wszystkich stronach. 
 
-**`«B13»`** Все необходимые по макету шрифты и их вариации (вес и начертание)
-подключены с сервиса Google Fonts одной ссылкой. Необходимый вес для `Raleway` –
-700, а для `Roboto` – 400, 500, 700 и 900.
+**`«B13»`** Wszystkie czcionki i ich odmiany wymagane dla układu (grubość i styl) 
+są podłączone z usługi Google Fonts za pomocą jednego linku. Wymagana waga dla `Raleway` –
+700, a dla `Roboto` – 400, 500, 700 i 900.
 
-**`«B14»`** Внутри разметки кнопок нет дополнительных элементов, например спанов
-или ссылок.
+**`«B14»`** Wewnątrz znaczników przycisku nie ma żadnych dodatkowych elementów, 
+takich jak spany lub linki. 
 
 ## Оформление
 
