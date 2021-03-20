@@ -1,86 +1,85 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Czytaj w innych językach: [Rosyjski](README.md), [Ukraiński](README.ua.md),
+[Polski](README.pl.md).**
 
-# Домашнее задание
+# Zadanie domowe
 
-- Создай репозиторий `goit-markup-hw-04`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Добавь разметку и оформление иконок и декоративных эффектов для страниц из
-  макета
-  [**домашнего задания #4**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A293>).
-- Для генерации SVG-спрайта используй сервис [**Icomoon**](https://icomoon.io/).
-- Для оптимизации созданного SVG-спрайта используй сервис
+- Utwórz repozytorium `goit-markup-hw-04`.
+- Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy.
+- Dodaj znaczniki HTML i stylizuj ikony i efekty dekoracyjne do stron z układu
+  [**zadania domowego #4**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A293>).
+- Aby wygenerować sprite SVG, użyj usługi [**Icomoon**](https://icomoon.io/).
+- Aby zoptymalizować wygenerowany sprite SVG, skorzystaj z usługi 
   [**svgomg**](https://jakearchibald.github.io/svgomg/).
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do 
+  nagłówka repozytorium GitHub. 
 
-## Критерии приёма работы наставником
+## Kryteria akceptacji projektu przez mentora
 
-### Проект
+### Projekt
 
-**`«A1»`** В корне проекта есть папка `images` с изображениями.
+**`«A1»`** W katalogu głównym projektu znajduje się folder `images` z obrazami.
 
-**`«A2»`** Все векторные изображения (иконки) собраны в SVG-спрайт `icons.svg`,
-который лежит в папке `images`.
+**`«A2»`** Wszystkie obrazy wektorowe (ikony) są gromadzone w sprite SVG `icons.svg`,
+który znajduje się w folderze `images`.
 
-**`«A3»`** Все векторные изображения оптимизированы.
+**`«A3»`** Wszystkie obrazy wektorowe są zoptymalizowane.
 
-**`«A4»`** В корне проекта есть папка `css` с файлами стилей.
+**`«A4»`**  W katalogu głównym projektu znajduje się folder `css` z plikami stylów.
 
-**`«A5»`** Все стили написаны в одном файле `styles.css`, который находится в
-папке `css`.
+**`«A5»`** Wszystkie style są zapisane w jednym pliku `styles.css`, który znajduje się 
+w folderze `css`
 
-**`«A6»`** В названиях файлов нет заглавных букв, пробелов и транслита, только
-буквы и слова английского языка.
+**`«A6»`** W nazwach plików nie ma wielkich liter, spacji i transliteracji, 
+a jedynie litery i słowa w języku angielskim. 
 
-**`«A7»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A7»`** Kod źródłowy jest sformatowany za pomocą `Prettier`.
 
-**`«A8»`** Все изображения и текстовый контент взяты из макета.
+**`«A8»`** Wszystkie obrazy i zawartość tekstowa są z układu.
 
-**`«A9»`** На всех HTML-страницах подключен нормализатор стилей
+**`«A9»`** Wszystkie strony HTML mają normalizator stylu 
 [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
-**`«A10»`** Код написан следуя
-[**руководству**](http://sadcitizen.me/code-guide/).
+**`«A10»`** Kod jest napisany zgodnie z
+[**tutorialem**](http://sadcitizen.me/code-guide/).
 
-### Разметка
+### Znaczniki HTML
 
-**`«B1»`** Для всех иконок используется векторная графика в формате `svg`.
+**`«B1»`** Wszystkie ikony wykorzystują grafikę wektorową w formacie `svg`.
 
-**`«B2»`** SVG-иконки экспортированы правильно. При экспорте выбрана «группа», а
-не сам вектор.
+**`«B2»`** Ikony SVG są poprawnie eksportowane. Podczas eksportowania wybierana 
+jest „grupa”, a nie sam wektor. 
 
-**`«B3»`** Все иконки из SVG-спрайта добавлены в HTML при помощи тегов `<svg>` и
+**`«B3»`** Wszystkie ikony z SVG sprite zostały dodane do HTML za pomocą tagów `<svg>` i
 `<use>`
 
-**`«B4»`** Размеры иконок взяты из макета и заданы элементу `<svg>` в
-HTML-файле.
+**`«B4»`** Rozmiary ikon są wzięte z układu i ustawione dla elementu `<svg>` w 
+pliku HTML.
 
-**`«B5»`** В блоке `Контактов` в шапке, добавлены иконки конверта и телефона.
+**`«B5»`** W bloku `Kontaktów` w nagłówku dodano ikony koperty i telefonu. 
 
-**`«B6»`** В секции `Преимуществ` добавлены иконки.
+**`«B6»`** Do sekcji `Zalet` są dodane ikony.
 
-**`«B7»`** В секции `Команды` добавлены иконки соцсетей.
+**`«B7»`** Do sekcji `Zespołu` dodano ikony mediów społecznościowych. 
 
-**`«B8»`** В секции `Клиентов` добавлены иконки компаний.
+**`«B8»`** Do sekcji `Klientów` dodano ikony firm.
 
-**`«B9»`** В `футере` добавлены иконки соцсетей.
+**`«B9»`** Do `stopki` dodano ikony mediów społecznościowych. 
 
-### Оформление
+### Stylizacja
 
-**`«C1»`** Большое изображение с эффектом затемнения (под хедером) выполнено как
-фон. Для затемнения используется многослойный фон с градиентом.
+**`«C1»`** Jako tło tworzony jest duży obraz z efektem przyciemnienia (pod 
+nagłówkiem). Do przyciemnienia stosuje się wielowarstwowe tło z gradientem. 
 
-**`«C2»`** Фоновое изображение в блоке под хедером не растягивается шире своего
-оригинального размера `1600рх`.
+**`«C2»`** Obraz tła w bloku pod nagłówkiem nie rozciąga się szerzej niż jego 
+oryginalny rozmiar `1600рх`.
 
-**`«C3»`** В карточках секции `Наша команда` есть постоянный эффект тени.
+**`«C3»`** Karty sekcji `Nasz zespół` mają trwały efekt cienia. 
 
-**`«C4»`** В карточках страницы `Портфолио` есть эффект тени при ховере в любом
-месте карточки.
+**`«C4»`** Karty strony `Portfolio` mają efekt cienia po najechaniu kursorem w 
+dowolne miejsce na karcie. 
 
-**`«C5»`** В фильтре (список кнопок) страницы `Портфолио` есть эффект тени при
-ховере или фокусе на кнопки.
+**`«C5»`** Filtr (lista przycisków) na stronie `Portfolio` ma efekt cienia po 
+najechaniu kursorem lub focusie na przyciskach. 
 
-**`«C6»`** При ховере или фокусе, иконки должны переходить в активное
-состояние - изменять цвет, если это указано в макете.
+**`«C6»`** Podczas najeżdżania kursorem lub focusie ikony powinny stać się aktywne
+- zmieniać kolor, jeśli jest to wskazane w układzie. 
