@@ -3,37 +3,37 @@
 
 # Zadanie domowe
 
-- Создай репозиторий `goit-markup-hw-03`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Добавь стили для геометрии (ширины, отступы, поля и рамки) и позиционирование
-  контента при помощи Flexbox для страниц макета
-  [**домашнего задания #3**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Utwórz repozytorium `goit-markup-hw-03`.
+- Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy. 
+- Dodaj style geometrii (szerokość, dopełnienia, marginesy i obramowania) oraz 
+  pozycjonowanie treści za pomocą Flexbox dla stron układu
+  [**zadania domowego #3**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
+- Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do 
+  nagłówka repozytorium GitHub. 
 
 ## Kryteria akceptacji projektu przez mentora
 
 ### Projekt
 
-**`«A1»`** В корне проекта есть папка `images` с изображениями.
+**`«A1»`** W katalogu głównym projektu znajduje się folder `images` z obrazami.
 
-**`«A2»`** В корне проекта есть папка `css` с файлами стилей.
+**`«A2»`** W katalogu głównym projektu znajduje się folder `css` z plikami stylów. 
 
-**`«A3»`** Все стили написаны в одном файле `styles.css`, который находится в
-папке `css`.
+**`«A3»`** Wszystkie style są zapisane w jednym pliku `styles.css`, który znajduje się 
+w folderze `css`.
 
-**`«A4»`** В названиях файлов нет заглавных букв, пробелов и транслита, только
-буквы и слова английского языка.
+**`«A4»`** W nazwach plików nie ma wielkich liter, spacji i transliteracji, 
+a jedynie litery i słowa w języku angielskim. 
 
-**`«A5»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A5»`** Kod źródłowy jest sformatowany za pomocą `Prettier`.
 
-**`«A6»`** Все изображения и текстовый контент взяты из макета.
+**`«A6»`** Wszystkie obrazy i zawartość tekstowa są z układu.
 
-**`«A7»`** На всех HTML-страницах подключен нормализатор стилей
+**`«A7»`** Wszystkie strony HTML mają normalizator stylu 
 [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
-**`«A7»`** Код написан следуя
-[**руководству**](http://sadcitizen.me/code-guide/).
+**`«A7»`** Kod jest napisany zgodnie z
+[**tutorialem**](http://sadcitizen.me/code-guide/).
 
 ### Stylizacja
 
