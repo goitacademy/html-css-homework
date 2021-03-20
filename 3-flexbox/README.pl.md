@@ -40,7 +40,7 @@ a jedynie litery i słowa w języku angielskim.
 **`«B1»`** Dozwolone jest globalne resetowanie stylów selektora tagu dla elementów
 `<h1>...<h6>`, `<p>` i `<ul>`.
 
-**`«B2»`** Elementy nie mają marginesów (właściwość `margin`), które „przebijają” 
+**`«B2»`** Elementy nie mają marginesów zewnętrznych (właściwość `margin`), które „przebijają” 
 element nadrzędny (rodzicielski). 
 
 **`«B3»`** W kolekcjach elementów z jednym wierszem usunięto skrajny lewy lub skrajny prawy
