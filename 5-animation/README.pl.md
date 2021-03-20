@@ -1,41 +1,41 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Czytaj w innych językach: [Rosyjski](README.md), [Ukraiński](README.ua.md),
+[Polski](README.pl.md).**
 
-# Домашнее задание
+# Zadanie domowe
 
-- Создай репозиторий `goit-markup-hw-05`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Добавь анимацию декоративных эффектов для страниц макета
-  [**домашнего задания #5**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A836>).
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Utwórz repozytorium `goit-markup-hw-05`.
+- Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy. 
+- Dodaj animację efektów dekoracyjnych do stron układu
+  [**zadania domowego #5**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A836>).
+- Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do 
+  nagłówka repozytorium GitHub. 
 
-## Критерии приёма работы наставником
+## Kryteria akceptacji projektu przez mentora
 
-### Проект
+### Projekt
 
-**`«A1»`** Все стили написаны в одном файле `styles.css`, который находится в
-папке `css`.
+**`«A1»`** Wszystkie style są zapisane w jednym pliku `styles.css`, który znajduje się 
+w folderze `css`.
 
-**`«A2»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A2»`** Kod źródłowy jest sformatowany za pomocą `Prettier`.
 
-**`«A3»`** Все изображения и текстовый контент взяты из макета.
+**`«A3»`** Wszystkie obrazy i zawartość tekstowa są z układu.
 
-**`«A4»`** На всех HTML-страницах подключен нормализатор стилей
+**`«A4»`** Wszystkie strony HTML mają normalizator stylu 
 [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
-**`«A5»`** Код написан следуя
-[**руководству**](http://sadcitizen.me/code-guide/).
+**`«A5»`** Kod jest napisany zgodnie z
+[**tutorialem**](http://sadcitizen.me/code-guide/).
 
-**`«A6»`** Скрипт модального окна подключен в HTML отдельным файлом `modal.js`.
+**`«A6»`** Skrypt do okna modalnego jest zawarty w HTML w oddzielnym pliku `modal.js`.
 
-### Разметка
+### Znaczniki HTML
 
-**`«B1»`** Выполнена HTML-разметка всех элементов макета.
+**`«B1»`** Wykonane są znaczniki HTML wszystkich elementów układu. 
 
-**`«B2»`** Теги использованы согласно их семантического смысла.
+**`«B2»`** Tagi są używane zgodnie z ich znaczeniem semantycznym. 
 
-### Оформление
+### Stylizacja
 
 **`«C1»`** Для всех эффектов ховера и фокуса (цвет, фон, тень) сделаны переходы.
 Время - `250ms`, функция распределения времени - `cubic-bezier(0.4, 0, 0.2, 1)`.
