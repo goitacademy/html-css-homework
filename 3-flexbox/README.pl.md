@@ -52,8 +52,8 @@ dwoma sąsiednimi elementami.
 **`«B5»`** Właściwość `padding` służy do określenia odstępu między granicą 
 elementu nadrzędnego a jego elementem podrzędnym. 
 
-**`«B6»`** Rozmiary marginesów (właściwość `margin`) i dopełnienia (właściwość
-`padding`) elementów są ustawiane dokładnie zgodnie z układem. 
+**`«B6»`** Rozmiary marginesów zewnętrznych (właściwość `margin`) i dopełnień 
+wewnętrznych (właściwość `padding`) elementów są ustawiane dokładnie zgodnie z układem. 
 
 **`«B7»`** Utworzono ogólną klasę pomocniczą `.container` do wyśrodkowywania i 
 ograniczania szerokości zawartości. 
