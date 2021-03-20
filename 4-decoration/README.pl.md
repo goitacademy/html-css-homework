@@ -81,5 +81,5 @@ dowolne miejsce na karcie.
 **`«C5»`** Filtr (lista przycisków) na stronie `Portfolio` ma efekt cienia po 
 najechaniu kursorem lub focusie na przyciskach. 
 
-**`«C6»`** Podczas najeżdżania kursorem lub focusie ikony powinny stać się aktywne
-- zmieniać kolor, jeśli jest to wskazane w układzie. 
+**`«C6»`** Podczas najeżdżania kursorem lub focusie ikony powinny stać się aktywne -
+zmieniać kolor, jeśli jest to wskazane w układzie. 
