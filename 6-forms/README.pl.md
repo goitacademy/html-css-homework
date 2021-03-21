@@ -55,18 +55,18 @@ układzie tekst-podpowiedź.
 
 ### Stylizacja
 
-**`«C1»`** Выполнено оформление элементов формы подписки на рассылку в футере.
+**`«C1»`** Zakończona jest stylizacja elementów formularza zapisu do newslettera w stopce. 
 
-**`«C2»`** Выполнено оформление элементов формы заявки в модальном окне.
+**`«C2»`** Zakończono jest stylizacja elementów formularza wniosku w oknie modalnym. 
 
-**`«C3»`** При получении инпутом фокуса, его рамка и иконка меняют цвет (как
-показано на макете).
+**`«C3»`** Gdy wejście otrzyma fokus, jego obramowanie i ikona zmieniają kolor (jak 
+pokazano w układzie). 
 
-**`«C4»`** Оригинальный чекбокс о принятии лицензионного соглашения в форме
-заявки скрыт.
+**`«C4»`** Oryginalne pole wyboru akceptacji umowy licencyjnej w formularzu zgłoszeniowym 
+jest ukryte. 
 
-**`«C5»`** Оформление «чекбокса» о принятии лицензионного соглашения сделано
-вручную, при помощи векторного изображения галочки из SVG-спрайта.
+**`«C5»`** Stylizacja „checkboxa” akceptacji umowy licencyjnej została wykonana ręcznie, 
+przy użyciu obrazu wektorowego ptaszka z sprite'a SVG. 
 
-**`«C6»`** Для всех эффектов ховера и фокуса (цвет, фон, тень) сделаны переходы.
-Время - `250ms`, функция распределения времени - `cubic-bezier(0.4, 0, 0.2, 1)`.
+**`«C6»`** Dla wszystkich efektów najechania i focusu (kolor, tło, cień) wykonywane
+są przejścia. Czas - `250ms`, funkcja rozkładu czasu - `cubic-bezier(0.4, 0, 0.2, 1)`.
