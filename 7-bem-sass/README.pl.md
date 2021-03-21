@@ -1,20 +1,20 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Czytaj w innych językach: [Rosyjski](README.md), [Ukraiński](README.ua.md),
+[Polski](README.pl.md).**
 
-# Домашнее задание
+# Zadanie domowe
 
-- Создай репозиторий `goit-markup-hw-07`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Utwórz repozytorium `goit-markup-hw-07`.
+- Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy
+- Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka 
+  repozytorium GitHub.
 
-## Структура файлов проекта
+## Struktura plików projektu 
 
-![Структура файлов проекта](./preview.png)
+![Struktura plików projektu](./preview.png)
 
-## Критерии приёма работы наставником
+## Kryteria akceptacji projektu przez mentora
 
-## Проект
+## Projekt
 
 **`«A1»`** Выполнен рефакторинг HTML-кода проекта используя методологию BEM.
 
@@ -36,7 +36,7 @@ SASS переменные (по желанию).
 **`«A7»`** В файлах `index.html` и `portfolio.html` подключен минифицированный
 файл стилей `main.min.css` из папки `css`.
 
-## Разметка
+## Znaczniki HTML
 
 **`«B1»`** Правильное именование классов блоков по методологии BEM.
 
@@ -49,7 +49,7 @@ SASS переменные (по желанию).
 **`«B5»`** Имена классов по методологии BEM понятные и описательные, на
 английском языке.
 
-## Оформление
+## Stylizacja
 
 **`«C1»`** Использована вложенность селекторов.
 
