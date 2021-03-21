@@ -31,7 +31,7 @@ w folderze `css`.
 
 ### Znaczniki HTML
 
-**`«B1»`** Wykonane są znaczniki HTML wszystkich elementów układu. 
+**`«B1»`** Wykonane jest oznaczenie znacznikami HTML wszystkich elementów układu. 
 
 **`«B2»`** Tagi są używane zgodnie z ich znaczeniem semantycznym. 
 
