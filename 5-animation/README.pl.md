@@ -101,12 +101,12 @@ po których skrypt wyszukuje elementy:
 <body>
   <!-- Вся твоя разметка, включая разметку модалки -->
 
-  <!-- Ставим перед закрывающим тегом body -->
+  <!-- Umieść przed zamykającym tagiem body -->
   <script src="./js/modal.js"></script>
 </body>
 ```
 
-Скрипт который необходимо скопировать и вставить в файл `modal.js`.
+Skrypt do skopiowania i wklejenia do pliku `modal.js`.
 
 ```js
 (() => {
