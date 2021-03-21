@@ -37,59 +37,57 @@ w folderze `css`.
 
 ### Stylizacja
 
-**`«C1»`** Для всех эффектов ховера и фокуса (цвет, фон, тень) сделаны переходы.
-Время - `250ms`, функция распределения времени - `cubic-bezier(0.4, 0, 0.2, 1)`.
+**`«C1»`** Dla wszystkich efektów najechania kursorem i focusu (kolor, tło, cień) wykonywane są przejścia.
+Czas - `250ms`, funkcja rozkładu czasu - `cubic-bezier(0.4, 0, 0.2, 1)`.
 
-**`«C2»`** В переходах и анимациях явно указаны анимируемые свойства. Нигде нет
-значения `all`.
+**`«C2»`** Właściwości, które będą animowane są wyraźnie określone w przejściach i animacjach. 
+Nigdzie nie ma wartości  `all`.
 
-**`«C3»`** В секции `Чем мы занимаемся` текст с фоном спозиционирован поверх
-изображения.
+**`«C3»`** W sekcji `Co robimy` tekst z tłem jest umieszczony 
+nad obrazem.
 
-**`«C4»`** В главной навигации, при помощи псевдоэлемента `::after`, сделано
-подчёркивание ссылки текущей страницы (на которой сейчас находится
-пользователь).
+**`«C4»`** W głównej nawigacji, używając pseudoelementu `::after`, podkreślono link 
+do bieżącej strony (na której obecnie jest użytkownik). 
 
-**`«C5»`** Синий оверлей с текстом на карточках страницы `Портфолио` появляется
-при ховере в любом месте карточки.
+**`«C5»`** Niebieska nakładka z tekstem na kartach strony `Portfolio` pojawia się 
+po najechaniu kursorem w dowolne miejsce na karcie. 
 
-**`«C6»`** Синий оверлей в карточках страницы `Портфолио` выезжает снизу, как
-показано [на видео](./preview.gif).
+**`«C6»`** Niebieska nakładka na kartach strony `Portfolio` wysuwa się z dołu, jak 
+pokazano [w wideo](./preview.gif).
 
-**`«C7»`** У псевдоэлементов нет текстового контента в свойстве `content`. Они
-использованы исключительно для декоративного оформления.
+**`«C7»`** Pseudoelementy nie mają treści tekstowej we właściwości `content`. Używane 
+są wyłącznie do celów dekoracyjnych. 
 
-### Модальное окно
+### Okno modalne 
 
-**`«D1»`** Выполнена разметка и оформление «бекдропа» (тёмного полупрозрачного
-фона) модального окна.
+**`«D1»`** Ukończono oznaczanie i dekoracja «backdrop» (ciemnego półprzezroczystego 
+tła) okna modalnego. 
 
-**`«D2»`** «Бекдроп» заполняет 100% высоты и ширины вьюпорта браузера и
-фиксирован в нём.
+**`«D2»`** «Backdrop» (tło) wypełnia 100% wysokości i szerokości okna przeglądarki
+i jest w nim stałe. 
 
-**`«D3»`** Выполнена разметка и оформление модального окна.
+**`«D3»`** Ukończono oznaczenie znacznikami HTML i dekorację okna modalnego. 
 
-**`«D4»`** Модальное окно вертикально и горизонтально спозиционировано
-посередине бекдропа.
+**`«D4»`** Okno modalne jest umieszczone pionowo i poziomo na środku tła (backdrop). 
 
-**`«D5»`** Выполнена разметка и оформление кнопки закрытия модального окна в
-верхнем правом углу.
+**`«D5»`** Ukończono oznaczenie znacznikami HTML i dekorację przycisku do zamykania 
+okna modalnego w prawym górnym rogu. 
 
-**`«D6»`** Изначально модальное окно и бекдроп скрыты при помощи класса
-`is-hidden` на бекдропе, в селекторе которого используются свойства
-`visibility`, `opacity` и `pointer-events`.
+**`«D6»`** Początkowo okno modalne i backdrop są ukrywane za pomocą klasy
+`is-hidden` w backdropie, w selektorze którego używa się właściwości
+`visibility`, `opacity` i `pointer-events`.
 
-**`«D7»`** Если убрать с бекдропа класс `is-hidden` - появляется бекдроп и
-модальное окно.
+**`«D7»`** Jeśli usuniesz klasę `is-hidden` z backdrop - pojawi się backdrop i
+okno modalne. 
 
-**`«D8»`** Появление и скрытие модального окна анимировано при помощи перехода с
-произвольным эффектом, например `scale` или `translate`, и `opacity`.
+**`«D8»`** Pojawienie się i zniknięcie okna modalnego jest animowane przy użyciu
+przejścia z dowolnym efektem, takim jak `scale` lub `translate`, i `opacity`.
 
-## Открытие/закрытие модального окна
+## Otwieranie/zamykanie okna modalnego 
 
-Модальное окно с формой заявки открывается по клику на кнопку
-`"Заказать услугу"`. Для того чтобы скрипт сработал необходимо добавить в
-разметку специальные атрибуты, по которым скрипт ищет элементы:
+Okno modalne z formularzem zgłoszeniowym otwiera się po kliknięciu na przycisk
+`"Zamów usługę"`. Aby skrypt działał, musisz dodać specjalne atrybuty do znaczników HTML,
+po których skrypt wyszukuje elementy: 
 
 - `data-modal-open` - на кнопку открытия модального окна.
 - `data-modal-close` - на кнопку закрытия модального окна.
