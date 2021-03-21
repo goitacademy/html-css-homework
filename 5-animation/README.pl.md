@@ -89,17 +89,17 @@ Okno modalne z formularzem zgłoszeniowym otwiera się po kliknięciu na przycis
 `"Zamów usługę"`. Aby skrypt działał, musisz dodać specjalne atrybuty do znaczników HTML,
 po których skrypt wyszukuje elementy: 
 
-- `data-modal-open` - на кнопку открытия модального окна.
-- `data-modal-close` - на кнопку закрытия модального окна.
-- `data-modal` - на бекдроп модального окна.
+- `data-modal-open` - do przycisku otwierania okna modalnego. 
+- `data-modal-close` - do przycisku zamykania okna modalnego. 
+- `data-modal` - do backdrop okna modalnego. 
 
-После чего, перед закрывающим тегом `body` добавить тег `script` со ссылкой на
-файл скрипта для модально окна. Можно посмотреть
-[видео-инструкцию](https://drive.google.com/file/d/1yasixN2K-9DdsYtKCJWVay9WbyTZai0t/view?usp=sharing).
+Następnie przed zamykającym tagiem `body` dodaj tag `script` z linkiem do pliku 
+skryptu okna modalnego. Możesz obejrzeć 
+[instrukcję wideo] (https://drive.google.com/file/d/1yasixN2K-9DdsYtKCJWVay9WbyTZai0t/view?usp=sharing).
 
 ```html
 <body>
-  <!-- Вся твоя разметка, включая разметку модалки -->
+  <!-- Wszystkie Twoje znaczniki HTML, w tym znaczniki okna modalnego  -->
 
   <!-- Umieść przed zamykającym tagiem body -->
   <script src="./js/modal.js"></script>
