@@ -57,7 +57,7 @@ układzie tekst-podpowiedź.
 
 **`«C1»`** Zakończona jest stylizacja elementów formularza zapisu do newslettera w stopce. 
 
-**`«C2»`** Zakończono jest stylizacja elementów formularza wniosku w oknie modalnym. 
+**`«C2»`** Zakończona jest stylizacja elementów formularza wniosku w oknie modalnym. 
 
 **`«C3»`** Gdy wejście otrzyma fokus, jego obramowanie i ikona zmieniają kolor (jak 
 pokazano w układzie). 
