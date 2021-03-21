@@ -16,9 +16,9 @@
 
 ## Projekt
 
-**`«A1»`** Выполнен рефакторинг HTML-кода проекта используя методологию BEM.
+**`«A1»`** Refaktoryzacja kodu HTML projektu z wykorzystaniem metodologii BEM. 
 
-**`«A2»`** Выполнен рефакторинг CSS-кода проекта используя препроцессор `SASS`.
+**`«A2»`** Refaktoryzacja kodu CSS projektu przy użyciu preprocesora `SASS`.
 
 **`«A3»`** В корне проекта создана папка `sass`, в которой лежат все файлы
 стилей препроцессора.
