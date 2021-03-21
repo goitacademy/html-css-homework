@@ -8,7 +8,7 @@
 - Dodaj znaczniki HTML i style formularzy do stron układu
   [**zadania domowego #6**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A1821>):
 - Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka 
-- repozytorium GitHub.
+  repozytorium GitHub.
 
 ## Kryteria akceptacji projektu przez mentora
 
