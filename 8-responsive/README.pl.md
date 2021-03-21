@@ -1,58 +1,57 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Czytaj w innych językach: [Rosyjski](README.md), [Ukraiński](README.ua.md),
+[Polski](README.pl.md).**
 
-# Домашнее задание
+# Zadanie domowe
 
-- Создай репозиторий `goit-markup-hw-08`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Выполни вёрстку адаптивной версии всех страниц и элементов макета
-  [**домашнего задания #8**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A3330>).
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Utwórz repozytorium `goit-markup-hw-08`.
+- Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy.
+- Sprojektuj layout wersji adaptacyjnej wszystkich stron i elementów układu
+  [**zadania domowego #8**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A3330>).
+- Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka 
+  repozytorium GitHub.
 
-## Критерии приёма работы наставником
+## Kryteria akceptacji projektu przez mentora
 
-### Проект
+### Projekt
 
-**`«A1»`** Используется методология `BEM`.
+**`«A1»`** Stosowana jest metodologia `BEM`.
 
-**`«A2»`** Ипользуется препроцессов `SASS`.
+**`«A2»`** Używany jest preprocesor `SASS`.
 
-**`«A3»`** В файлах `index.html` и `portfolio.html` подключен минифицированный
-файл стилей `main.min.css` из папки `css`.
+**`«A3»`** Pliki `index.html` i `portfolio.html` zawierają zminimalizowany 
+plik stylów `main.min.css` z folderu `css`.
 
-**`«A4»`** При просмотре страницы на любом устройстве шириной от `320px`, не
-появляется горизонтальная полоса прокрутки.
+**`«A4»`** Podczas przeglądania strony na dowolnym urządzeniu o szerokości `320px` 
+i więcej, poziomy pasek przewijania nie pojawia się. 
 
-**`«A5»`** Скрипт мобильного меню подключен в HTML отдельным файлом
+**`«A5»`** Skrypt menu mobilnego jest zawarty w HTML w osobnym pliku
 `mobile-menu.js`.
 
-## Разметка
+## Znaczniki HTML
 
-**`«B1»`** У всех страниц в блоке `<head>` есть метатег `viewport`.
+**`«B1»`** Wszystkie strony w bloku `<head>` mają metatag `viewport`.
 
-**`«B2»`** Все фоновые и контентные растровые изображения - отзывчивые, и
-поддерживают экраны с плотностью `x1` и `x2`.
+**`«B2»`** Wszystkie bitmapy tła i treści są responsywne i obsługują gęstości `x1` i `x2`.
 
-**`«B3»`** Для отзывчивых контентных изображений использован элемент `<img>` с
-атрибутом `srcset` и дескриптором `x`.
+**`«B3»`** W przypadku responsywnych obrazów z treścią używany jest element `<img>` z
+atrybutem `srcset` i deskryptorem `x`.
 
-**`«B4»`** Для отзывчивых фоновых изображений использованы медиа-фукцнии
-`min-device-pixel-ratio` и `min-resolution`.
+**`«B4»`** W przypadku responsywnych obrazów tła używane są funkcje multimedialne
+`min-device-pixel-ratio` i `min-resolution`.
 
-**`«B5»`** Выполнена разметка мобильного меню.
+**`«B5»`** Oznaczanie menu mobilnego znacznikami HTML zostało zakończone.
 
-## Оформление
+## Stylizacja
 
-**`«C1»`** При написании стилей использован `Mobile First` подход и
-медиа-функция `(min-width: )`.
+**`«C1»`** Podczas pisania stylów zastosowano podejście `Mobile First` i
+funkcja multimedialna `(min-width: )`.
 
-**`«C2»`** Стили необходимые только в определённом промежутке, закрыты в
-медиа-запросы `(min-width: ) and (max-width: )` или только `(max-width: )`.
+**`«C2»`** Style są potrzebne tylko w określonym zakresie, zamknięte w zapytaniach
+o media `(min-width: ) and (max-width: )` lub tylko `(max-width: )`.
 
-**`«C3»`** В медиа-запросах отсутствует лишнее дублирование стилей.
+**`«C3»`** Nie ma niepotrzebnego powielania stylów w zapytaniach o media. 
 
-**`«C4»`** Вёрстка выполнена относительно трёх точек перелома: 480px, 768px и
+**`«C4»`** Układ jest wykonany z uwzględnieniem trzech punktów przerwania: 480px, 768px i
 1200px.
 
-**`«C5»`** Выполнено оформление мобильного меню.
+**`«C5»`** Projektowanie menu mobilnego zostało ukończone. 
