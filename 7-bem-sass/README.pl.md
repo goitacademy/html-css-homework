@@ -20,40 +20,39 @@
 
 **`«A2»`** Refaktoryzacja kodu CSS projektu przy użyciu preprocesora `SASS`.
 
-**`«A3»`** В корне проекта создана папка `sass`, в которой лежат все файлы
-стилей препроцессора.
+**`«A3»`** Folder `sass`, został utworzony w katalogu głównym projektu, który 
+zawiera wszystkie pliki stylów preprocesora. 
 
-**`«A4»`** В папке `sass` есть файл `main.scss` - главный файл в котрый
-импортируются все SASS-фрагменты (partials, файлы `_имя.scss`).
+**`«A4»`** W folderze `sass` znajduje się plik `main.scss` - główny plik, do którego
+wszystkie fragmenty SASS (partials, pliki `_nazwa.scss`) są importowane.
 
-**`«A5»`** Палитра цветов макета и наборы шрифтов вынесены в переменные в файле
-`variables.scss`, который лежит в папке `sass/utils`. Можно использовать CSS или
-SASS переменные (по желанию).
+**`«A5»`** Paleta kolorów układu i zestawy czcionek są przenoszone do zmiennych w pliku
+`variables.scss`, który znajduje się w folderze `sass/utils`. Możesz użyć zmiennych CSS 
+lub SASS (opcjonalnie). 
 
-**`«A6»`** Для каждого компонента создан отдельный файл-фрагмент стилей в папке
-`sass/components`. Напримпер `_page-header.scss`, `_logo.scss` и т. д.
+**`«A6»`** Dla każdego komponentu tworzony jest oddzielny fragmentu pliku stylów w folderze
+`sass/components`. Na przykład `_page-header.scss`, `_logo.scss` itd.
 
-**`«A7»`** В файлах `index.html` и `portfolio.html` подключен минифицированный
-файл стилей `main.min.css` из папки `css`.
+**`«A7»`** Pliki `index.html` i `portfolio.html` zawierają zminimalizowany plik 
+stylów `main.min.css` z folderu `css`.
 
 ## Znaczniki HTML
 
-**`«B1»`** Правильное именование классов блоков по методологии BEM.
+**`«B1»`** Poprawne nazewnictwo klas bloków zgodnie z metodologią BEM. 
 
-**`«B2»`** Правильное именование классов элементов по методологии BEM.
+**`«B2»`** Poprawne nazewnictwo klas elementów zgodnie z metodologią BEM. 
 
-**`«B3»`** Правильное именование классов модификаторов по методологии BEM.
+**`«B3»`** Poprawne nazewnictwo klas modyfikatorów zgodnie z metodologią BEM. 
 
-**`«B4»`** Правильное именование классов примесей по методологии BEM.
+**`«B4»`** Poprawne nazewnictwo klas domieszek zgodnie z metodologią BEM. 
 
-**`«B5»`** Имена классов по методологии BEM понятные и описательные, на
-английском языке.
+**`«B5»`** Nazwy klas zgodnie z metodologią BEM są zrozumiałe i opisowe, w języku angielskim. 
 
 ## Stylizacja
 
-**`«C1»`** Использована вложенность селекторов.
+**`«C1»`** Stosowane jest zagnieżdżanie selektorów. 
 
-**`«C2»`** Максимальная вложенность селекторов - 2 уровня.
+**`«C2»`** Maksymalne zagnieżdżenie selektorów to 2 poziomy. 
 
-**`«C3»`** Оператор конкатенации (`&`) использован для описания псевдоклассов и
-псевдоэлементов.
+**`«C3»`** Operator konkatenacji (`&`) jest używany do opisywania pseudoklas i
+pseudoelementów. 
