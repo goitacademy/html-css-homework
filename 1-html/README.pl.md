@@ -25,7 +25,7 @@ a jedynie litery i słowa w języku angielskim.
 
 **`«A5»`** Wszystkie obrazy i zawartość tekstowa są z układu.
 
-**`«A6»`** Wszystkie mapy bitowe są optymalizowane przy użyciu 
+**`«A6»`** Wszystkie zdjęcia są optymalizowane przy użyciu 
 [squoosh](https://squoosh.app/).
 
 **`«A7»`** Kod jest napisany zgodnie z
