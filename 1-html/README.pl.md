@@ -5,7 +5,7 @@
 
 - Utwórz repozytorium `goit-markup-hw-01`.
 - Wykonaj znaczniki HTML układu strony
-  [**zadania domowego #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>),
+  [**zadania domowego #1**](<https://www.figma.com/file/80aXNcfD68SHVCqfRXEnV5/Zadanie-domowe-GOIT-Polska?node-id=0%3A1>),
   bez stylów CSS. 
 - Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka
   repozytorium GitHub. 
@@ -29,7 +29,7 @@ a jedynie litery i słowa w języku angielskim.
 [squoosh](https://squoosh.app/).
 
 **`«A7»`** Kod jest napisany zgodnie z
-[**tutorialem**](http://sadcitizen.me/code-guide/).
+[**tutorialem**](http://bondarewicz.github.io/code-guide/).
 
 ### Znaczniki HTML
 
