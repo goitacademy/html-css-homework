@@ -4,7 +4,7 @@
 # Zadanie domowe
 
 - Utwórz repozytorium `goit-markup-hw-01`.
-- Wykonaj znaczniki HTML układu strony
+- Wykorzystaj tylko znaczniki html do wykonania strony
   [**zadania domowego #1**](<https://www.figma.com/file/80aXNcfD68SHVCqfRXEnV5/Zadanie-domowe-GOIT-Polska?node-id=0%3A1>),
   bez stylów CSS. 
 - Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka
