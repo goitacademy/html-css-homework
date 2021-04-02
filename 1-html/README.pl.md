@@ -45,11 +45,11 @@ bez błędów.
 **`«B5»`** Znaczniki HTML zawierają tagi do podkreślania głównej struktury strony: 
 `<header>`, `<main>` i `<footer>`.
 
-**`«B6»`** Logo w nagłówku i stopce to link z tekstem, a nie obraz. 
+**`«B6»`** Logo w `<header>` i stopce to link z tekstem, a nie obraz. 
 
-**`«B7»`** Tag `<nav>` został użyty raz na stronie - w nagłówku. 
+**`«B7»`** Tag `<nav>` został użyty raz na stronie - w `<header>`. 
 
-**`«B8»`** Kontakty w nagłówku (poczta i telefon) znajdują się poza tagiem `<nav>`.
+**`«B8»`** Kontakty w `<header>` (poczta i telefon) znajdują się poza tagiem `<nav>`.
 
 **`«B9»`** Tag `<h1>` został użyty jeden raz na stronie
 
@@ -58,7 +58,7 @@ bez błędów.
 
 **`«B11»`** Nagłówki sekcji są oznaczone tagiem `<h2>`.
 
-**`«B12»`** Tagi `<img>` mają atrybuty wymiarów, co najmniej `width`.
+**`«B12»`** Tagi `<img>` mają atrybuty wymiarów, co najmniej `width` i `height`.
 
 **`«B13»`** Tagi `<img>` mają atrybut `alt`, który jest wypełniony krótkim
 opisem tego, co jest pokazane na obrazku. 
