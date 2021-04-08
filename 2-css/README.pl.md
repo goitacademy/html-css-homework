@@ -5,8 +5,8 @@
 
 - Utwórz repozytorium `goit-markup-hw-02`.
 - Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy.
-- Wykonaj znaczniki HTML i projektowanie układu strony
-  [**zadania domowego #2**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
+- Wykonaj znaczniki HTML do projektowania układu nowej zakładki portfolio
+  [**zadania domowego #2**](<https://www.figma.com/file/SqiyweSseH96c3wVZmnGfq/Zadanie-domowe-GOIT-Polska-Copy?node-id=0%3A1>).
 - Do optymalizacji obrazów skorzystaj z usługi
   [**squoosh**](https://squoosh.app/).
 - Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka
@@ -47,7 +47,7 @@ a jedynie litery i słowa w języku angielskim.
 **`«B4»`** HTML jest weryfikowany przez [**walidator**](http://validator.w3.org/nu/)
 bez błędów.
 
-**`«B5»`** Nazwy klas są opisowe i zrozumiałe dla innego programisty. 
+**`«B5»`** Nazwy klas są zrozumiałe dla innego programisty. 
 
 **`«B6»`** Nazwy klas nie zawierają wielkich liter, spacji, transliteracji i 
 nazw tagów, a jedynie litery i słowa w języku angielskim. Jeśli nazwa klasy składa 
@@ -57,7 +57,7 @@ się z kilku słów, są one oddzielone myślnikiem.
 względną ścieżkę do plików HTML tych stron. Kliknięcie linku powoduje przejście 
 do odpowiedniej strony w bieżącej karcie przeglądarki.  
 
-**`«B8»`** Tagi `<img>` mają atrybuty wymiarów, co najmniej `width`.
+**`«B8»`** Tagi `<img>` mają atrybuty wymiarów, co najmniej `width` i `height`.
 
 **`«B9»`** Obrazy są wyeksportowane z układu w formacie `jpg`.
 
