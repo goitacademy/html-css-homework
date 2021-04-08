@@ -34,7 +34,7 @@ a jedynie litery i słowa w języku angielskim.
 [squoosh](https://squoosh.app/).
 
 **`«A8»`** Kod jest napisany zgodnie z
-[**tutorialem**](http://sadcitizen.me/code-guide/).
+[**tutorialem**](http://bondarewicz.github.io/code-guide/).
 
 ### Znaczniki HTML
 
