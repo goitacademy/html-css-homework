@@ -7,7 +7,7 @@
 - Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy. 
 - Dodaj style geometrii (szerokość, dopełnienia, marginesy i obramowania) oraz 
   pozycjonowanie treści za pomocą Flexbox dla stron układu
-  [**zadania domowego #3**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
+  [**zadania domowego #3**](<https://www.figma.com/file/SqiyweSseH96c3wVZmnGfq/Zadanie-domowe-GOIT-Polska-Copy?node-id=0%3A1>).
 - Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do 
   nagłówka repozytorium GitHub. 
 
@@ -33,7 +33,7 @@ a jedynie litery i słowa w języku angielskim.
 [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
 **`«A7»`** Kod jest napisany zgodnie z
-[**tutorialem**](http://sadcitizen.me/code-guide/).
+[**tutorialem**](https://codeguide.co/).
 
 ### Stylizacja
 
@@ -77,10 +77,9 @@ tam, gdzie nie można inaczej rozmieścić elementów w poziomie
 marginesów.
 
 **`«B15»`** Dla wszystkich sekcji używana jest jedna klasa `.section`, górne i dolne 
-dopełnienia są ustawione na `94px`, wypychając zawartość do wnętrza sekcji. 
+`padding` są ustawione na `94px`, wypychając zawartość do wnętrza sekcji. 
 
-**`«B16»`** Do budowy siatek wykorzystywana jest technika opisana w konspekcie i 
-szkoleniu wideo. 
+**`«B16»`** Do budowy siatek wykorzystywana jest technika opisana w konspekcie.
 
 **`«B17»`** Karty na stronie `Portfolio` mają obramowanie (właściwość `border`),
 ale tylko na dole karty. 
