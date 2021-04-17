@@ -58,9 +58,9 @@ wewnętrznych (właściwość `padding`) elementów są ustawiane dokładnie zgo
 **`«B7»`** Utworzono ogólną klasę pomocniczą `.container` do wyśrodkowywania i 
 ograniczania szerokości zawartości. 
 
-**`«B8»`** Szerokość „kontenera” jest zgodna z układem i wynosi `1200px`.
+**`«B8»`** Szerokość `.container` jest zgodna z układem i wynosi `1200px`.
 
-**`«B9»`** „Kontener” otacza zawartość nagłówka, stopki i sekcji. Oznacza 
+**`«B9»`** `.container` otacza zawartość nagłówka, stopki i sekcji. Oznacza 
 to, że jest wewnątrz nich. 
 
 **`«B10»`** Użyj `Flexbox` do rozmieszczenia elementów, ale tylko w razie 
@@ -71,7 +71,7 @@ tam, gdzie nie można inaczej rozmieścić elementów w poziomie
 
 **`«B12»`** Elementy nie mają ustalonej wysokości, zależy to od ich zawartości. 
 
-**`«B13»`** Nagłówek ma dolne obramowanie, musisz bardzo powiększyć, aby go zobaczyć. 
+**`«B13»`** `Header` ma dolne obramowanie, musisz bardzo powiększyć, aby go zobaczyć. 
 
 **`«B14»`** Sekcje są ułożone jedna pod drugą jak stos książek, bez zewnętrznych 
 marginesów.
