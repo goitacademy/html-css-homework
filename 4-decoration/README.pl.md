@@ -5,8 +5,8 @@
 
 - Utwórz repozytorium `goit-markup-hw-04`.
 - Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy.
-- Dodaj znaczniki HTML i stylizuj ikony i efekty dekoracyjne do stron z układu
-  [**zadania domowego #4**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A293>).
+- Dodaj znaczniki HTML i stylizuj ikony i efekty dekoracyjne do strony z układu
+  [**zadania domowego #4**](<https://www.figma.com/file/SqiyweSseH96c3wVZmnGfq/Zadanie-domowe-GOIT-Polska?node-id=2286%3A2>).
 - Aby wygenerować sprite SVG, użyj usługi [**Icomoon**](https://icomoon.io/).
 - Aby zoptymalizować wygenerowany sprite SVG, skorzystaj z usługi 
   [**svgomg**](https://jakearchibald.github.io/svgomg/).
@@ -57,11 +57,11 @@ pliku HTML.
 
 **`«B5»`** W bloku `Kontaktów` w nagłówku dodano ikony koperty i telefonu. 
 
-**`«B6»`** Do sekcji `Zalet` są dodane ikony.
+**`«B6»`** Do sekcji `Nasze atuty` są dodane ikony.
 
-**`«B7»`** Do sekcji `Zespołu` dodano ikony mediów społecznościowych. 
+**`«B7»`** Do sekcji `Nasz zespół` dodano ikony mediów społecznościowych. 
 
-**`«B8»`** Do sekcji `Klientów` dodano ikony firm.
+**`«B8»`** Do sekcji `Nasi klienci` dodano ikony firm.
 
 **`«B9»`** Do `stopki` dodano ikony mediów społecznościowych. 
 
