@@ -6,7 +6,7 @@
 - Utwórz repozytorium `goit-markup-hw-05`.
 - Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy. 
 - Dodaj animację efektów dekoracyjnych do stron układu
-  [**zadania domowego #5**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A836>).
+  [**zadania domowego #5**](<https://www.figma.com/file/SqiyweSseH96c3wVZmnGfq/Zadanie-domowe-GOIT-Polska?node-id=3334%3A3>).
 - Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do 
   nagłówka repozytorium GitHub. 
 
@@ -37,13 +37,13 @@ w folderze `css`.
 
 ### Stylizacja
 
-**`«C1»`** Dla wszystkich efektów najechania kursorem i focusu (kolor, tło, cień) wykonywane są przejścia.
+**`«C1»`** Dla wszystkich efektów najechania kursorem i focusu (kolor, tło, cień) wykonywany jest `transition`.
 Czas - `250ms`, funkcja rozkładu czasu - `cubic-bezier(0.4, 0, 0.2, 1)`.
 
 **`«C2»`** Właściwości, które będą animowane są wyraźnie określone w przejściach i animacjach. 
 Nigdzie nie ma wartości  `all`.
 
-**`«C3»`** W sekcji `Co robimy` tekst z tłem jest umieszczony 
+**`«C3»`** W sekcji `Czym się zajmujemy` tekst z tłem jest umieszczony 
 nad obrazem.
 
 **`«C4»`** W głównej nawigacji, używając pseudoelementu `::after`, podkreślono link 
@@ -74,7 +74,7 @@ i jest w nim stałe.
 okna modalnego w prawym górnym rogu. 
 
 **`«D6»`** Początkowo okno modalne i backdrop są ukrywane za pomocą klasy
-`is-hidden` w backdropie, w selektorze którego używa się właściwości
+`is-hidden` w backdropie, w selektorze tego elementu używa się właściwości
 `visibility`, `opacity` i `pointer-events`.
 
 **`«D7»`** Jeśli usuniesz klasę `is-hidden` z backdrop - pojawi się backdrop i
