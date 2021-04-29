@@ -50,7 +50,7 @@ nad obrazem.
 do bieżącej strony (na której obecnie jest użytkownik). 
 
 **`«C5»`** Niebieska nakładka z tekstem na kartach strony `Portfolio` pojawia się 
-po najechaniu kursorem w dowolne miejsce na karcie. 
+po najechaniu kursorem w dowolne miejsce na karcie. W każdej karcie jest tekst jak w pierwszym przykładzie.
 
 **`«C6»`** Niebieska nakładka na kartach strony `Portfolio` wysuwa się z dołu, jak 
 pokazano [w wideo](./preview.gif).
