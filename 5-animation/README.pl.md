@@ -95,7 +95,7 @@ po których skrypt wyszukuje elementy:
 
 Następnie przed zamykającym tagiem `body` dodaj tag `script` z linkiem do pliku 
 skryptu okna modalnego. Możesz obejrzeć 
-[instrukcję wideo] (https://drive.google.com/file/d/1yasixN2K-9DdsYtKCJWVay9WbyTZai0t/view?usp=sharing).
+[instrukcję wideo] (https://drive.google.com/file/d/1XRqb6W_MObwfcp2psCFLUz7of-hc2NhU/view?usp=sharing).
 
 ```html
 <body>
