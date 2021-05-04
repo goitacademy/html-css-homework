@@ -6,7 +6,7 @@
 - Utwórz repozytorium `goit-markup-hw-06`.
 - Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy.
 - Dodaj znaczniki HTML i style formularzy do stron układu
-  [**zadania domowego #6**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A1821>):
+  [**zadania domowego #6**](<https://www.figma.com/file/SqiyweSseH96c3wVZmnGfq/Zadanie-domowe-GOIT-Polska?node-id=4082%3A5>):
 - Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka 
   repozytorium GitHub.
 
@@ -59,11 +59,11 @@ układzie tekst-podpowiedź.
 
 **`«C2»`** Zakończona jest stylizacja elementów formularza wniosku w oknie modalnym. 
 
-**`«C3»`** Gdy wejście otrzyma fokus, jego obramowanie i ikona zmieniają kolor (jak 
+**`«C3»`** Gdy pole formularza otrzyma focus, jego obramowanie i ikona zmieniają kolor (jak 
 pokazano w układzie). 
 
-**`«C4»`** Oryginalne pole wyboru akceptacji umowy licencyjnej w formularzu zgłoszeniowym 
-jest ukryte. 
+**`«C4»`** Oryginalne pole wyboru akceptacji regulaminu i polityki w formularzu zgłoszeniowym 
+jest ukryte. Czyli nie jest automatycznie zaznaczone.
 
 **`«C5»`** Stylizacja „checkboxa” akceptacji umowy licencyjnej została wykonana ręcznie, 
 przy użyciu obrazu wektorowego ptaszka z sprite'a SVG. 
