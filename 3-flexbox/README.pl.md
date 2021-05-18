@@ -1,87 +1,85 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Czytaj w innych językach: [Rosyjski](README.md), [Ukraiński](README.ua.md),
+[Polski](README.pl.md).**
 
-# Домашнее задание
+# Zadanie domowe
 
-- Создай репозиторий `goit-markup-hw-03`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Добавь стили для геометрии (ширины, отступы, поля и рамки) и позиционирование
-  контента при помощи Flexbox для страниц макета
-  [**домашнего задания #3**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Utwórz repozytorium `goit-markup-hw-03`.
+- Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy. 
+- Dodaj style geometrii (szerokość, dopełnienia, marginesy i obramowania) oraz 
+  pozycjonowanie treści za pomocą Flexbox dla stron układu
+  [**zadania domowego #3**](<https://www.figma.com/file/SqiyweSseH96c3wVZmnGfq/Zadanie-domowe-GOIT-Polska-Copy?node-id=0%3A1>).
+- Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do 
+  nagłówka repozytorium GitHub. 
 
-## Критерии приёма работы наставником
+## Kryteria akceptacji projektu przez mentora
 
-### Проект
+### Projekt
 
-**`«A1»`** В корне проекта есть папка `images` с изображениями.
+**`«A1»`** W katalogu głównym projektu znajduje się folder `images` z obrazami.
 
-**`«A2»`** В корне проекта есть папка `css` с файлами стилей.
+**`«A2»`** W katalogu głównym projektu znajduje się folder `css` z plikami stylów. 
 
-**`«A3»`** Все стили написаны в одном файле `styles.css`, который находится в
-папке `css`.
+**`«A3»`** Wszystkie style są zapisane w jednym pliku `styles.css`, który znajduje się 
+w folderze `css`.
 
-**`«A4»`** В названиях файлов нет заглавных букв, пробелов и транслита, только
-буквы и слова английского языка.
+**`«A4»`** W nazwach plików nie ma wielkich liter, spacji i transliteracji, 
+a jedynie litery i słowa w języku angielskim. 
 
-**`«A5»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A5»`** Kod źródłowy jest sformatowany za pomocą `Prettier`.
 
-**`«A6»`** Все изображения и текстовый контент взяты из макета.
+**`«A6»`** Wszystkie obrazy i zawartość tekstowa są z układu.
 
-**`«A7»`** На всех HTML-страницах подключен нормализатор стилей
+**`«A7»`** Wszystkie strony HTML mają normalizator stylu 
 [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
-**`«A7»`** Код написан следуя
-[**руководству**](http://sadcitizen.me/code-guide/).
+**`«A7»`** Kod jest napisany zgodnie z
+[**tutorialem**](https://codeguide.co/).
 
-### Оформление
+### Stylizacja
 
-**`«B1»`** Допускается глобальный сброс стилей по селектору тега для элементов
-`<h1>...<h6>`, `<p>` и `<ul>`.
+**`«B1»`** Dozwolone jest globalne resetowanie stylów selektora tagu dla elementów
+`<h1>...<h6>`, `<p>` i `<ul>`.
 
-**`«B2»`** У элементов нет внешних отступов (свойство `margin`) «пробивающих»
-родительский элемент.
+**`«B2»`** Elementy nie mają marginesów zewnętrznych (właściwość `margin`), które „przebijają” 
+element nadrzędny (rodzicielski). 
 
-**`«B3»`** В однострочных коллекциях элементов очищен крайний левый или правый
-`margin` элементов (если он есть).
+**`«B3»`** W kolekcjach elementów z jednym wierszem usunięto skrajny lewy lub skrajny prawy
+`margin` elementów (jeśli istnieje). 
 
-**`«B4»`** Для отступов между двумя соседними элементами используется свойство
-`margin`.
+**`«B4»`** Właściwość `margin` jest używana w przypadku marginesów między 
+dwoma sąsiednimi elementami.
 
-**`«B5»`** Для зазора между границей родителя и его ребёнком используется
-свойство `padding`.
+**`«B5»`** Właściwość `padding` służy do określenia odstępu między granicą 
+elementu nadrzędnego a jego elementem podrzędnym. 
 
-**`«B6»`** Размеры внешних отступов (свойство `margin`) и внутренних полей
-(свойство `padding`) элементов заданы точно по макету.
+**`«B6»`** Rozmiary marginesów zewnętrznych (właściwość `margin`) i dopełnień 
+wewnętrznych (właściwość `padding`) elementów są ustawiane dokładnie zgodnie z układem. 
 
-**`«B7»`** Создан общий вспомогательный класс `.container` для центрирования и
-ограничения контента по ширине.
+**`«B7»`** Utworzono ogólną klasę pomocniczą `.container` do wyśrodkowywania i 
+ograniczania szerokości zawartości. 
 
-**`«B8»`** Ширина «контейнера» соответствует макету и равна `1200px`.
+**`«B8»`** Szerokość `.container` jest zgodna z układem i wynosi `1200px`.
 
-**`«B9»`** «Контейнер» оборачивает контент хедера, футера и секций. То есть
-находится внутри них.
+**`«B9»`** `.container` otacza zawartość nagłówka, stopki i sekcji. Oznacza 
+to, że jest wewnątrz nich. 
 
-**`«B10»`** Для расположения элементов используется `Flexbox`, но только там,
-где это необходимо. Например в шапке, навигации, списках в секциях и так далее,
-то есть там, где расположить элементы горизонтально по другому невозможно.
+**`«B10»`** Użyj `Flexbox` do rozmieszczenia elementów, ale tylko w razie 
+potrzeby. Na przykład w nagłówku, nawigacji, listach w sekcjach itd., czyli 
+tam, gdzie nie można inaczej rozmieścić elementów w poziomie
 
-**`«B11»`** Финальные размеры блоков в браузере соответствуют макету.
+**`«B11»`** Ostateczne rozmiary bloków w przeglądarce odpowiadają układowi. 
 
-**`«B12»`** У элементов нет фиксированной высоты, она определяется их контентом.
+**`«B12»`** Elementy nie mają ustalonej wysokości, zależy to od ich zawartości. 
 
-**`«B13»`** У хедера есть нижняя рамка, необходимо сильно приблизить макет чтобы
-увидеть её.
+**`«B13»`** `Header` ma dolne obramowanie, musisz bardzo powiększyć, aby go zobaczyć. 
 
-**`«B14»`** Секции расположены друг под другом как стопка книг, без внешних
-отступов.
+**`«B14»`** Sekcje są ułożone jedna pod drugą jak stos książek, bez zewnętrznych 
+marginesów.
 
-**`«B15»`** Для всех секций используется один класс `.section`, заданы верхние и
-нижние падинги по `94px`, отодвигающие контент внутрь секции.
+**`«B15»`** Dla wszystkich sekcji używana jest jedna klasa `.section`, górne i dolne 
+`padding` są ustawione na `94px`, wypychając zawartość do wnętrza sekcji. 
 
-**`«B16»`** Для построения сеток используется техника описанная в конспекте и
-видео-мастерской.
+**`«B16»`** Do budowy siatek wykorzystywana jest technika opisana w konspekcie.
 
-**`«B17»`** В карточках на странице `Портфолио` есть рамка (свойство `border`),
-но только в нижней части карточки.
+**`«B17»`** Karty na stronie `Portfolio` mają obramowanie (właściwość `border`),
+ale tylko na dole karty. 

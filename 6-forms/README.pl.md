@@ -1,71 +1,72 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Czytaj w innych językach: [Rosyjski](README.md), [Ukraiński](README.ua.md),
+[Polski](README.pl.md).**
 
-# Домашнее задание
+# Zadanie domowe
 
-- Создай репозиторий `goit-markup-hw-06`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Добавь размерку и оформление форм для страниц макета
-  [**домашнего задания #6**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A1821>):
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Utwórz repozytorium `goit-markup-hw-06`.
+- Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy.
+- Dodaj znaczniki HTML i style formularzy do stron układu
+  [**zadania domowego #6**](<https://www.figma.com/file/SqiyweSseH96c3wVZmnGfq/Zadanie-domowe-GOIT-Polska?node-id=4082%3A5>):
+- Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka 
+  repozytorium GitHub.
 
-## Критерии приёма работы наставником
+## Kryteria akceptacji projektu przez mentora
 
-### Проект
+### Projekt
 
-**`«A1»`** Все стили написаны в одном файле `styles.css`, который находится в
-папке `css`.
+**`«A1»`** Wszystkie style są zapisane w jednym pliku `styles.css`, który 
+znajduje się w folderze `css`.
 
-**`«A2»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A2»`** Kod źródłowy jest sformatowany za pomocą `Prettier`.
 
-**`«A3»`** Все изображения и текстовый контент взяты из макета.
+**`«A3»`** Wszystkie obrazy i zawartość tekstowa są z układu.
 
-**`«A4»`** На всех HTML-страницах подключен нормализатор стилей
+**`«A4»`** Wszystkie strony HTML mają normalizator stylu 
 [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
-**`«A5»`** Код написан следуя
-[**руководству**](http://sadcitizen.me/code-guide/).
+**`«A5»`** Kod jest napisany zgodnie z
+[**tutorialem**](http://sadcitizen.me/code-guide/).
 
-### Разметка
+### Znaczniki HTML
 
-**`«B1»`** Выполнена HTML-разметка всех элементов макета.
+**`«B1»`**  Wykonane jest oznaczenie znacznikami HTML wszystkich elementów układu. 
 
-**`«B2»`** Теги использованы согласно их семантического смысла.
+**`«B2»`** Tagi są używane zgodnie z ich znaczeniem semantycznym.
 
-**`«B3»`** Выполнена разметка формы подписки на рассылку и всех её элементов в
-футере.
+**`«B3»`** Uzupełniono znaczniki formularza zapisu do newslettera i wszystkich jego
+elementów w stopce.
 
-**`«B4»`** Выполнена разметка формы заявки и всех её элементов в модальном окне.
+**`«B4»`** Oznaczenie znacznikami HTML formularza wniosku i wszystkich jego elementów 
+w oknie modalnym zostało zakończone. 
 
-**`«B5»`** У всех инпутов в формах задан атрибут `name`.
+**`«B5»`** Wszystkie dane wejściowe w formularzach mają atrybut `name`.
 
-**`«B6»`** Значения атрибута `name` описательные, точно характеризующий для чего
-это поле формы.
+**`«B6»`** Wartości atrybutu `name` są opisowe, dokładnie charakteryzujące, 
+po co jest to pole formularza.
 
-**`«B7»`** У всех инпутов есть связанный элемент `<label>`.
+**`«B7»`** Wszystkie dane wejściowe mają podłączony element `<label>`.
 
-**`«B8»`** Инпутам задан атрибут `placeholder` если для него в макете есть
-текст-подсказка.
+**`«B8»`** Atrybut `placeholder` jest ustawiany dla danych wejściowych, jeśli ma on w
+układzie tekst-podpowiedź. 
 
-**`«B9»`** Кнопкам «отправки» форм задан атрибут `type="submit"`.
+**`«B9»`** Przyciski "przesyłania" formularzy mają ustawiony atrybut `type="submit"`.
 
-**`«B10»`** Все новые иконки из форм добавлены в SVG-спрайт `icons.svg`.
+**`«B10»`** Wszystkie nowe ikony z formularzy zostały dodane do sprite'a SVG `icons.svg`.
 
-### Оформление
+### Stylizacja
 
-**`«C1»`** Выполнено оформление элементов формы подписки на рассылку в футере.
+**`«C1»`** Zakończona jest stylizacja elementów formularza zapisu do newslettera w stopce. 
 
-**`«C2»`** Выполнено оформление элементов формы заявки в модальном окне.
+**`«C2»`** Zakończona jest stylizacja elementów formularza wniosku w oknie modalnym. 
 
-**`«C3»`** При получении инпутом фокуса, его рамка и иконка меняют цвет (как
-показано на макете).
+**`«C3»`** Gdy pole formularza otrzyma focus, jego obramowanie i ikona zmieniają kolor (jak 
+pokazano w układzie). 
 
-**`«C4»`** Оригинальный чекбокс о принятии лицензионного соглашения в форме
-заявки скрыт.
+**`«C4»`** Oryginalne pole wyboru akceptacji regulaminu i polityki w formularzu zgłoszeniowym 
+jest ukryte. Czyli nie jest automatycznie zaznaczone.
 
-**`«C5»`** Оформление «чекбокса» о принятии лицензионного соглашения сделано
-вручную, при помощи векторного изображения галочки из SVG-спрайта.
+**`«C5»`** Stylizacja „checkboxa” akceptacji umowy licencyjnej została wykonana ręcznie, 
+przy użyciu obrazu wektorowego ptaszka z sprite'a SVG. 
 
-**`«C6»`** Для всех эффектов ховера и фокуса (цвет, фон, тень) сделаны переходы.
-Время - `250ms`, функция распределения времени - `cubic-bezier(0.4, 0, 0.2, 1)`.
+**`«C6»`** Dla wszystkich efektów najechania i focusu (kolor, tło, cień) wykonywane
+są przejścia. Czas - `250ms`, funkcja rozkładu czasu - `cubic-bezier(0.4, 0, 0.2, 1)`.
