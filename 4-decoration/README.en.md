@@ -1,85 +1,68 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Read in other languages: [Russian](README.md), [Ukrainian](README.ua.md), [Polska](README.pl.md).**
 
-# Домашнее задание
+# Homework
 
-- Создай репозиторий `goit-markup-hw-04`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Добавь разметку и оформление иконок и декоративных эффектов для страниц из
-  макета
-  [**домашнего задания #4**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A293>).
-- Для генерации SVG-спрайта используй сервис [**Icomoon**](https://icomoon.io/).
-- Для оптимизации созданного SVG-спрайта используй сервис
-  [**svgomg**](https://jakearchibald.github.io/svgomg/).
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Create a repository `goit-markup-hw-04`.
+- Clone the created repository and copy the previous work files into it.
+- Add markup, icon styling and decorative effects to layout pages of [**homework #4**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A293>).
+- To generate an SVG sprite, use [**Icomoon**](https://icomoon.io/).
+- To optimize the generated SVG sprite, use [**svgomg**](https://jakearchibald.github.io/svgomg/).
+- Set up `GitHub Pages` and add a link to the live page in the header of the GitHub repository.
 
-## Критерии приёма работы наставником
+## Criteria for work acceptance by the tutor
 
-### Проект
+### Project
 
-**`«A1»`** В корне проекта есть папка `images` с изображениями.
+**`«A1»`** In the root of the project, there is a folder called `images` with images.
 
-**`«A2»`** Все векторные изображения (иконки) собраны в SVG-спрайт `icons.svg`,
-который лежит в папке `images`.
+**`«A2»`** All vector images (icons) are collected in the `icons.svg` SVG sprite in the `images` folder.
 
-**`«A3»`** Все векторные изображения оптимизированы.
+**`«A3»`** All vector images are optimized.
 
-**`«A4»`** В корне проекта есть папка `css` с файлами стилей.
+**`«A4»`** In the root of the project, there is a `css` folder with style sheets.
 
-**`«A5»`** Все стили написаны в одном файле `styles.css`, который находится в
-папке `css`.
+**`«A5»`** All styles are contained in one `styles.css` file in the `css` folder.
 
-**`«A6»`** В названиях файлов нет заглавных букв, пробелов и транслита, только
-буквы и слова английского языка.
+**`«A6»`** There are no capital letters, spaces and transliteration in the file names, only English letters and words.
 
-**`«A7»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A7»`** Source code is formatted with `Prettier`.
 
-**`«A8»`** Все изображения и текстовый контент взяты из макета.
+**`«A8»`** All images and text content are taken from the layout.
 
-**`«A9»`** На всех HTML-страницах подключен нормализатор стилей
-[`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
+**`«A9»`** All HTML pages have a style normalizer [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
-**`«A10»`** Код написан следуя [**руководству**](https://codeguide.co/).
+**`«A10»`** The code is in line with the [**guide**](https://codeguide.co/).
 
-### Разметка
+### Markup
 
-**`«B1»`** Для всех иконок используется векторная графика в формате `svg`.
+**`«B1»`** Vector graphics in the `svg` format are used for all icons.
 
-**`«B2»`** SVG-иконки экспортированы правильно. При экспорте выбрана «группа», а
-не сам вектор.
+**`«B2»`** SVG icons are properly exported. When exporting, the "group" is selected, not the vector itself.
 
-**`«B3»`** Все иконки из SVG-спрайта добавлены в HTML при помощи тегов `<svg>` и
-`<use>`
+**`«B3»`** All icons from the SVG sprite are added to HTML using the `<svg>` and `<use>` tags.
 
-**`«B4»`** Размеры иконок взяты из макета и заданы элементу `<svg>` в
-HTML-файле.
+**`«B4»`** Icon sizes are in line with the layout and set on the `<svg>` element in the HTML file.
 
-**`«B5»`** В блоке `Контактов` в шапке, добавлены иконки конверта и телефона.
+**`«B5»`** In the `Contacts` box in the header, the envelope and phone icons are added.
 
-**`«B6»`** В секции `Преимуществ` добавлены иконки.
+**`«B6»`** Icons are added in the `Advantages` section.
 
-**`«B7»`** В секции `Команды` добавлены иконки соцсетей.
+**`«B7»`** Social media icons are added in the `Team` section.
 
-**`«B8»`** В секции `Клиентов` добавлены иконки компаний.
+**`«B8»`** Company icons are added in the `Clients` section.
 
-**`«B9»`** В `футере` добавлены иконки соцсетей.
+**`«B9»`** Social media icons are added in `footer`.
 
-### Оформление
+### Styling
 
-**`«C1»`** Большое изображение с эффектом затемнения (под хедером) выполнено как
-фон. Для затемнения используется многослойный фон с градиентом.
+**`«C1»`** The large image with darkening effect (below the header) is made as a background. For darkening, a multi-layered background with a gradient is used.
 
-**`«C2»`** Фоновое изображение в блоке под хедером не растягивается шире своего
-оригинального размера `1600рх`.
+**`«C2»`** The background image in the box under the header is not stretched wider than its original size of `1600px`.
 
-**`«C3»`** В карточках секции `Наша команда` есть постоянный эффект тени.
+**`«C3»`** There is a permanent shadow effect in the cards of the `Our Team` section.
 
-**`«C4»`** В карточках страницы `Портфолио` есть эффект тени при ховере в любом
-месте карточки.
+**`«C4»`** In the cards of the `Portfolio` page, there is a shadow effect when hovering over any part of the card.
 
-**`«C5»`** В фильтре (список кнопок) страницы `Портфолио` есть эффект тени при
-ховере или фокусе на кнопки.
+**`«C5»`** In the filter (list of buttons) of the `Portfolio` page, there is a shadow effect when hovering over buttons or focusing with the keyboard.
 
-**`«C6»`** При ховере или фокусе, иконки должны переходить в активное
-состояние - изменять цвет, если это указано в макете.
+**`«C6»`** When hovering or focusing with the keyboard, all icons should switch to an active state, i.e. change color, if specified in the layout.
