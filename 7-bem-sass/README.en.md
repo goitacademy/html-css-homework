@@ -1,59 +1,49 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Read in other languages: [Russian](README.md), [Ukrainian](README.ua.md), [Polska](README.pl.md).**
 
-# Домашнее задание
+# Homework
 
-- Создай репозиторий `goit-markup-hw-07`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Create a repository `goit-markup-hw-07`.
+- Clone the created repository and copy the previous work files into it.
+- Set up `GitHub Pages` and add a link to the live page in the header of the GitHub repository.
 
-## Структура файлов проекта
+## Project file structure
 
-![Структура файлов проекта](./preview.png)
+![Project file structure](./preview.png)
 
-## Критерии приёма работы наставником
+## Criteria for work acceptance by the tutor
 
-## Проект
+## Project
 
-**`«A1»`** Выполнен рефакторинг HTML-кода проекта используя методологию BEM.
+**`«A1»`** Refactoring of the project HTML-code is done using the BEM methodology.
 
-**`«A2»`** Выполнен рефакторинг CSS-кода проекта используя препроцессор `SASS`.
+**`«A2»`** Refactoring of the project CSS code is done using the `SASS` preprocessor.
 
-**`«A3»`** В корне проекта создана папка `sass`, в которой лежат все файлы
-стилей препроцессора.
+**`«A3»`** In the root of the project, there is a `sass` folder, which contains all the preprocessor style sheets.
 
-**`«A4»`** В папке `sass` есть файл `main.scss` - главный файл в котрый
-импортируются все SASS-фрагменты (partials, файлы `_имя.scss`).
+**`«A4»`** In the `sass` folder, there is a `main.scss` file, the main file into which all SASS fragments are imported (partials, `_name.scss` files).
 
-**`«A5»`** Палитра цветов макета и наборы шрифтов вынесены в переменные в файле
-`variables.scss`, который лежит в папке `sass/utils`. Можно использовать CSS или
-SASS переменные (по желанию).
+**`«A5»`** Layout color palette and font sets are presented as variables in the `variables.scss` file in the `sass/utils` folder. CSS or SASS variables can be used (optionally).
 
-**`«A6»`** Для каждого компонента создан отдельный файл-фрагмент стилей в папке
-`sass/components`. Напримпер `_page-header.scss`, `_logo.scss` и т. д.
+**`«A6»`** For each component, a separate fragment style sheet is created in the `sass/components` folder. For example, `_page-header.scss`, `_logo.scss`, etc.
 
-**`«A7»`** В файлах `index.html` и `portfolio.html` подключен минифицированный
-файл стилей `main.min.css` из папки `css`.
+**`«A7»`** In the `index.html` and `portfolio.html` files, a minified style sheet, `main.min.css` from the `css` folder, is linked.
 
-## Разметка
+## Markup
 
-**`«B1»`** Правильное именование классов блоков по методологии BEM.
+**`«B1»`** Proper naming of box classes according to the BEM methodology.
 
-**`«B2»`** Правильное именование классов элементов по методологии BEM.
+**`«B2»`** Proper naming of element classes according to the BEM methodology.
 
-**`«B3»`** Правильное именование классов модификаторов по методологии BEM.
+**`«B3»`** Proper naming of modifier classes according to BEM methodology.
 
-**`«B4»`** Правильное именование классов примесей по методологии BEM.
+**`«B4»`** Proper naming of mixin classes according to BEM methodology.
 
-**`«B5»`** Имена классов по методологии BEM понятные и описательные, на
-английском языке.
+**`«B5»`** BEM class names are clear and descriptive, all in English.
 
-## Оформление
+## Styling
 
-**`«C1»`** Использована вложенность селекторов.
+**`«C1»`** Selector nesting is used.
 
-**`«C2»`** Максимальная вложенность селекторов - 2 уровня.
+**`«C2»`** Maximum selector nesting is 2 levels.
 
-**`«C3»`** Оператор конкатенации (`&`) использован для описания псевдоклассов и
-псевдоэлементов.
+**`«C3»`** The concatenation operator (`&`) is used to describe pseudo-classes and pseudo-elements.
