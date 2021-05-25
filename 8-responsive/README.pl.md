@@ -6,7 +6,7 @@
 - Utwórz repozytorium `goit-markup-hw-08`.
 - Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy.
 - Sprojektuj layout wersji adaptacyjnej wszystkich stron i elementów układu
-  [**zadania domowego #8**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A3330>).
+  [**zadania domowego #8**](<https://www.figma.com/file/SqiyweSseH96c3wVZmnGfq/Zadanie-domowe-GOIT-Polska?node-id=5766%3A1364>).
 - Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka 
   repozytorium GitHub.
 
