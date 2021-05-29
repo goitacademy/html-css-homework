@@ -1,69 +1,59 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md)**
+**Read in other languages: [Russian](README.md), [Ukrainian](README.ua.md), [Polska](README.pl.md)**
 
-# Домашнее задание
+# Homework
 
-- Создай репозиторий `goit-markup-hw-01`.
-- Выполни HTML-разметку макета страницы
-  [**домашнего задания #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>),
-  без CSS оформления.
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Create a repository `goit-markup-hw-01`.
+- Make HTML markup for the [**homework #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>) page layout, without CSS styling.
+- Set up `GitHub Pages` and add a link to the live page in the header of the GitHub repository.
 
-## Критерии приёма работы наставником
+## Criteria for work acceptance by the tutor
 
-### Проект
+### Project
 
-**`«A1»`** Главный HTML-файл называется `index.html`.
+**`«A1»`** The main HTML file is called `index.html`.
 
-**`«A2»`** В корне проекта есть папка `images` с изображениями.
+**`«A2»`** In the root of the project, there is a folder called `images` with images.
 
-**`«A3»`** В названиях файлов нет заглавных букв, пробелов и транслита, только
-буквы и слова английского языка.
+**`«A3»`** There are no capital letters, spaces and transliteration in the file names, only English letters and words.
 
-**`«A4»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A4»`** Source code is formatted with `Prettier`.
 
-**`«A5»`** Все изображения и текстовый контент взяты из макета.
+**`«A5»`** All images and text content are taken from the layout.
 
-**`«A6»`** Все растровые изображения оптимизированы используя
-[squoosh](https://squoosh.app/).
+**`«A6»`** All raster images are optimized using [squoosh](https://squoosh.app/).
 
-**`«A7»`** Код написан следуя [**руководству**](https://codeguide.co/).
+**`«A7»`** The code is in line with the [**guide**](https://codeguide.co/).
 
-### Разметка
+### Markup
 
-**`«B1»`** Разметка страницы `Студия` набрана в файле `index.html`.
+**`«B1»`** The `Studio` page layout is in the `index.html` file.
 
-**`«B2»`** Выполнена HTML-разметка всех элементов макета.
+**`«B2»`** HTML-markup is done for all layout elements.
 
-**`«B3»`** Теги использованы согласно их семантического смысла.
+**`«B3»`** Tags are used according to their semantics.
 
-**`«B4»`** HTML проходит проверку [**валидатором**](http://validator.w3.org/nu/)
-без ошибок.
+**`«B4»`** HTML can be validated using [**validator**](http://validator.w3.org/nu/) without errors.
 
-**`«B5»`** В разметке есть теги для выделения основной структуры страницы:
-`<header>`, `<main>` и `<footer>`.
+**`«B5»`** There are tags in the markup for web page structuring: `<header>`, `<main>` and `<footer>`.
 
-**`«B6»`** Логотип в хедере и футере - это ссылка с текстом, не изображение.
+**`«B6»`** The logo in the header and footer is a link with text, not an image.
 
-**`«B7»`** Тег `<nav>` использован единожды на странице – в хедере.
+**`«B7»`** The `<nav>` tag is used only once, in the page header.
 
-**`«B8»`** Контакты в хедере (почта и телефон) находятся вне тега `<nav>`.
+**`«B8»`** Contacts in the header (mail and phone) are outside the `<nav>` tag.
 
-**`«B9»`** Тег `<h1>` использован один раз на странице.
+**`«B9»`** The `<h1>` tag is used once per page.
 
-**`«B10»`** Элемент с текстом `"Заказать услугу"` - это кнопка с
-`type="button"`.
+**`«B10»`** An element with the text `"Order a service"` is a button with `type ="button"`.
 
-**`«B11»`** Заголовки секций размечены тегом `<h2>`.
+**`«B11»`** Section headings are marked with `<h2>`.
 
-**`«B12»`** У тегов `<img>` указаны атрибуты размеров, как минимум `width`.
+**`«B12»`** All `<img>` tags have size attributes, at least `width`.
 
-**`«B13»`** У тегов `<img>` есть атрибут `alt`, который заполнен кратким
-описанием о том, что изображено на картинке.
+**`«B13»`** All `<img>` tags have the `alt` attribute, which contains a brief description of what is shown in the picture.
 
-**`«B14»`** Изображения экспортированы из макета в формате `jpg`.
+**`«B14»`** Images are exported from the layout in `jpg` format.
 
-**`«B15»`** Группы однотипных элементов собраны в списки `<ul>`.
+**`«B15»`** Groups of the same-type elements are in `<ul>` lists.
 
-**`«B16»`** Тег `<address>` использован только в футере.
+**`«B16»`** The `<address>` tag is only used in the footer.

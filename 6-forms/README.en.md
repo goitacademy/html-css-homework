@@ -1,70 +1,58 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Read in other languages: [Russian](README.md), [Ukrainian](README.ua.md), [Polska](README.pl.md).**
 
-# Домашнее задание
+# Homework
 
-- Создай репозиторий `goit-markup-hw-06`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Добавь размерку и оформление форм для страниц макета
-  [**домашнего задания #6**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A1821>):
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Create a repository `goit-markup-hw-06`.
+- Clone the created repository and copy the previous work files into it.
+- Add markup and form design to layout pages of [**homework #6**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A1821>):
+- Set up `GitHub Pages` and add a link to the live page in the header of the GitHub repository.
 
-## Критерии приёма работы наставником
+## Criteria for work acceptance by the tutor
 
-### Проект
+### Project
 
-**`«A1»`** Все стили написаны в одном файле `styles.css`, который находится в
-папке `css`.
+**`«A1»`** All styles are contained in one `styles.css` file in the `css` folder.
 
-**`«A2»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A2»`** Source code is formatted with `Prettier`.
 
-**`«A3»`** Все изображения и текстовый контент взяты из макета.
+**`«A3»`** All images and text content are taken from the layout.
 
-**`«A4»`** На всех HTML-страницах подключен нормализатор стилей
-[`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
+**`«A4»`** All HTML pages have a style normalizer [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
-**`«A5»`** Код написан следуя [**руководству**](https://codeguide.co/).
+**`«A5»`** The code is in line with the [**guide**](https://codeguide.co/).
 
-### Разметка
+### Markup
 
-**`«B1»`** Выполнена HTML-разметка всех элементов макета.
+**`«B1»`** HTML-markup is done for all layout elements.
 
-**`«B2»`** Теги использованы согласно их семантического смысла.
+**`«B2»`** Tags are used according to their semantics.
 
-**`«B3»`** Выполнена разметка формы подписки на рассылку и всех её элементов в
-футере.
+**`«B3»`** The markup of the newsletter subscription form and all its elements in the footer is done.
 
-**`«B4»`** Выполнена разметка формы заявки и всех её элементов в модальном окне.
+**`«B4»`** The markup of the order form and all its elements in the modal window is done.
 
-**`«B5»`** У всех инпутов в формах задан атрибут `name`.
+**`«B5»`** All inputs in forms have the `name` attribute.
 
-**`«B6»`** Значения атрибута `name` описательные, точно характеризующий для чего
-это поле формы.
+**`«B6»`** The values of the `name` attribute are descriptive, describing exactly what the form field is used for.
 
-**`«B7»`** У всех инпутов есть связанный элемент `<label>`.
+**`«B7»`** All inputs have a bound `<label>` element.
 
-**`«B8»`** Инпутам задан атрибут `placeholder` если для него в макете есть
-текст-подсказка.
+**`«B8»`** The `placeholder` attribute is set on the inputs if there is a hint text for it in the layout.
 
-**`«B9»`** Кнопкам «отправки» форм задан атрибут `type="submit"`.
+**`«B9»`** Form "submit" buttons have the `type ="submit"` attribute.
 
-**`«B10»`** Все новые иконки из форм добавлены в SVG-спрайт `icons.svg`.
+**`«B10»`** All new form icons are added to the `icons.svg` SVG sprite.
 
-### Оформление
+### Styling
 
-**`«C1»`** Выполнено оформление элементов формы подписки на рассылку в футере.
+**`«C1»`** The styling of elements of the newsletter subscription form in the footer is done.
 
-**`«C2»`** Выполнено оформление элементов формы заявки в модальном окне.
+**`«C2»`** The styling of elements of the order form in the modal window is done.
 
-**`«C3»`** При получении инпутом фокуса, его рамка и иконка меняют цвет (как
-показано на макете).
+**`«C3»`** When an input is in focus, its border and icon change color (as shown on the layout).
 
-**`«C4»`** Оригинальный чекбокс о принятии лицензионного соглашения в форме
-заявки скрыт.
+**`«C4»`** The original checkbox with acceptance of the license agreement in the order form is hidden.
 
-**`«C5»`** Оформление «чекбокса» о принятии лицензионного соглашения сделано
-вручную, при помощи векторного изображения галочки из SVG-спрайта.
+**`«C5»`** The checkbox with acceptance of the license agreement is designed manually, using a vector checkmark image from the SVG sprite.
 
-**`«C6»`** Для всех эффектов ховера и фокуса (цвет, фон, тень) сделаны переходы.
-Время - `250ms`, функция распределения времени - `cubic-bezier(0.4, 0, 0.2, 1)`.
+**`«C6»`** For all hover and focus effects (color, background, shadow), transitions are made. Time is set to `250ms`, and the timing function is `cubic-bezier(0.4, 0, 0.2, 1)`.
