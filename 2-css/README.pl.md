@@ -6,7 +6,7 @@
 - Utwórz repozytorium `goit-markup-hw-02`.
 - Sklonuj utworzone repozytorium i skopiuj do niego pliki poprzedniej pracy.
 - Wykonaj znaczniki HTML do projektowania układu nowej zakładki portfolio
-  [**zadania domowego #2**](<https://www.figma.com/file/SqiyweSseH96c3wVZmnGfq/Zadanie-domowe-GOIT-Polska-Copy?node-id=0%3A1>).
+  [**zadania domowego #2**](https://www.figma.com/file/SqiyweSseH96c3wVZmnGfq/Zadanie-domowe-GOIT-Polska-Copy?node-id=0%3A1).
 - Do optymalizacji obrazów skorzystaj z usługi
   [**squoosh**](https://squoosh.app/).
 - Skonfiguruj `GitHub Pages` i dodaj link do aktywnej strony do nagłówka
@@ -18,44 +18,45 @@
 
 **`«A1»`** W katalogu głównym projektu znajduje się folder `images` z obrazami.
 
-**`«A2»`** W katalogu głównym projektu znajduje się folder `css` z plikami stylów. 
+**`«A2»`** W katalogu głównym projektu znajduje się folder `css` z plikami
+stylów.
 
-**`«A3»`** Wszystkie style są zapisane w jednym pliku `styles.css`, który znajduje się 
-w folderze `css`.
+**`«A3»`** Wszystkie style są zapisane w jednym pliku `styles.css`, który
+znajduje się w folderze `css`.
 
-**`«A4»`** W nazwach plików nie ma wielkich liter, spacji i transliteracji, 
-a jedynie litery i słowa w języku angielskim. 
+**`«A4»`** W nazwach plików nie ma wielkich liter, spacji i transliteracji, a
+jedynie litery i słowa w języku angielskim.
 
 **`«A5»`** Kod źródłowy jest sformatowany za pomocą `Prettier`.
 
-**`«A6»`** Wszystkie obrazy i zawartość tekstowa są z układu. 
+**`«A6»`** Wszystkie obrazy i zawartość tekstowa są z układu.
 
-**`«A7»`** Wszystkie mapy bitowe są optymalizowane przy użyciu 
+**`«A7»`** Wszystkie mapy bitowe są optymalizowane przy użyciu
 [squoosh](https://squoosh.app/).
 
-**`«A8»`** Kod jest napisany zgodnie z
-[**tutorialem**](http://bondarewicz.github.io/code-guide/).
+**`«A8»`** Kod jest napisany zgodnie z [**tutorialem**](https://codeguide.co/).
 
 ### Znaczniki HTML
 
-**`«B1»`** Znaczniki HTML strony `Portfolio` wpisują się w pliku `portfolio.html`.
+**`«B1»`** Znaczniki HTML strony `Portfolio` wpisują się w pliku
+`portfolio.html`.
 
-**`«B2»`** Wykonane są znaczniki HTML wszystkich elementów układu. 
+**`«B2»`** Wykonane są znaczniki HTML wszystkich elementów układu.
 
-**`«B3»`** Tagi są używane zgodnie z ich znaczeniem semantycznym. 
+**`«B3»`** Tagi są używane zgodnie z ich znaczeniem semantycznym.
 
-**`«B4»`** HTML jest weryfikowany przez [**walidator**](http://validator.w3.org/nu/)
-bez błędów.
+**`«B4»`** HTML jest weryfikowany przez
+[**walidator**](http://validator.w3.org/nu/) bez błędów.
 
-**`«B5»`** Nazwy klas są zrozumiałe dla innego programisty. 
+**`«B5»`** Nazwy klas są zrozumiałe dla innego programisty.
 
-**`«B6»`** Nazwy klas nie zawierają wielkich liter, spacji, transliteracji i 
-nazw tagów, a jedynie litery i słowa w języku angielskim. Jeśli nazwa klasy składa 
-się z kilku słów, są one oddzielone myślnikiem. 
+**`«B6»`** Nazwy klas nie zawierają wielkich liter, spacji, transliteracji i
+nazw tagów, a jedynie litery i słowa w języku angielskim. Jeśli nazwa klasy
+składa się z kilku słów, są one oddzielone myślnikiem.
 
 **`«B7»`** Atrybut `href` linków nawigacyjnych `Studio` i `Portfolio` zawiera
-względną ścieżkę do plików HTML tych stron. Kliknięcie linku powoduje przejście 
-do odpowiedniej strony w bieżącej karcie przeglądarki.  
+względną ścieżkę do plików HTML tych stron. Kliknięcie linku powoduje przejście
+do odpowiedniej strony w bieżącej karcie przeglądarki.
 
 **`«B8»`** Tagi `<img>` mają atrybuty wymiarów, co najmniej `width` i `height`.
 
@@ -63,17 +64,17 @@ do odpowiedniej strony w bieżącej karcie przeglądarki.
 
 **`«B10»`** Grupy elementów tego samego typu są gromadzone na listach `<ul>`.
 
-**`«B11»`** Filtr na stronie `Portfolio` jest tworzony przez listę przycisków, 
-z których każdy ma ustawiony atrybut `type="button"`.
+**`«B11»`** Filtr na stronie `Portfolio` jest tworzony przez listę przycisków, z
+których każdy ma ustawiony atrybut `type="button"`.
 
-**`«B12»`** Znaczniki nagłówka i stopki są takie same na wszystkich stronach. 
+**`«B12»`** Znaczniki nagłówka i stopki są takie same na wszystkich stronach.
 
-**`«B13»`** Wszystkie czcionki i ich odmiany wymagane dla układu (grubość i styl) 
-są podłączone z usługi Google Fonts za pomocą jednego linku. Wymagana waga dla `Raleway` –
-700, a dla `Roboto` – 400, 500, 700 i 900.
+**`«B13»`** Wszystkie czcionki i ich odmiany wymagane dla układu (grubość i
+styl) są podłączone z usługi Google Fonts za pomocą jednego linku. Wymagana waga
+dla `Raleway` – 700, a dla `Roboto` – 400, 500, 700 i 900.
 
-**`«B14»`** Wewnątrz znaczników przycisku nie ma żadnych dodatkowych elementów, 
-takich jak spany lub linki. 
+**`«B14»`** Wewnątrz znaczników przycisku nie ma żadnych dodatkowych elementów,
+takich jak spany lub linki.
 
 ## Stylizacja
 
@@ -83,44 +84,47 @@ takich jak spany lub linki.
 
 **`«C3»`** W stylach nie ma `!important`.
 
-**`«C4»`** Elementy interaktywne (przyciski i linki) po najechaniu myszką 
-lub focusie z klawiatury mają stan aktywny wskazany w układzie 
-(zmiana koloru). 
+**`«C4»`** Elementy interaktywne (przyciski i linki) po najechaniu myszką lub
+focusie z klawiatury mają stan aktywny wskazany w układzie (zmiana koloru).
 
-**`«С5»`** Tekst kontaktów w nagłówku i stopce zmienia kolor po najechaniu kursorem i focusie. 
+**`«С5»`** Tekst kontaktów w nagłówku i stopce zmienia kolor po najechaniu
+kursorem i focusie.
 
 **`«C6»`** Do przechowywania palety kolorów układu (tekst, tło, zaznaczenie)
-używane są zmienne CSS. 
+używane są zmienne CSS.
 
 **`«С7»`** Element `<body>` ma właściwość `font-family` z dominującą czcionką
 `Roboto` w układzie.
 
-**`«С8»`** Alternatywne opcje czcionek i typ rodziny (bezszeryfowa) są określone 
+**`«С8»`** Alternatywne opcje czcionek i typ rodziny (bezszeryfowa) są określone
 na końcu wyliczenia `font-family` dla elementu `<body>`.
 
-**`«С9»`** Rodzina czcionek `Roboto` jest wyraźnie określona tylko dla elementu `<body>`,
-pozostałe elementy go dziedziczą. 
+**`«С9»`** Rodzina czcionek `Roboto` jest wyraźnie określona tylko dla elementu
+`<body>`, pozostałe elementy go dziedziczą.
 
-**`«С10»`** Element `<body>` ma właściwość `color` z dominującym w 
-układzie kolorem tekstu. Reszta tekstu dziedziczy lub zastępuje tę wartość. 
+**`«С10»`** Element `<body>` ma właściwość `color` z dominującym w układzie
+kolorem tekstu. Reszta tekstu dziedziczy lub zastępuje tę wartość.
 
-**`«С11»`** Rozmiar czcionki (właściwość `font-size`) wszystkich elementów tekstowych 
-dokładnie odpowiada wartościom z układu. 
+**`«С11»`** Rozmiar czcionki (właściwość `font-size`) wszystkich elementów
+tekstowych dokładnie odpowiada wartościom z układu.
 
-**`«С12»`** Wysokość wiersza (właściwość `line-height`) wszystkich elementów tekstowych
-dokładnie odpowiada wartościom z układu i jest określona jako mnożnik, a nie w `px`.
+**`«С12»`** Wysokość wiersza (właściwość `line-height`) wszystkich elementów
+tekstowych dokładnie odpowiada wartościom z układu i jest określona jako
+mnożnik, a nie w `px`.
 
-**`«С13»`** Kolor (właściwość `color`) wszystkich elementów tekstowych dokładnie 
-odpowiada wartościom z układu. 
+**`«С13»`** Kolor (właściwość `color`) wszystkich elementów tekstowych dokładnie
+odpowiada wartościom z układu.
 
-**`«С14»`** Waga czcionki (właściwość `font-weight`) wszystkich elementów tekstowych 
-dokładnie odpowiada wartościom z układu. 
+**`«С14»`** Waga czcionki (właściwość `font-weight`) wszystkich elementów
+tekstowych dokładnie odpowiada wartościom z układu.
 
-**`«С15»`** Waga czcionki (właściwość `font-weight`) jest wyraźnie określona tylko wtedy, gdy wartość
-w układzie różni się od domyślnej dla tego elementu w przeglądarce. 
+**`«С15»`** Waga czcionki (właściwość `font-weight`) jest wyraźnie określona
+tylko wtedy, gdy wartość w układzie różni się od domyślnej dla tego elementu w
+przeglądarce.
 
 **`«С16»`** Przyciski mają określoną właściwość `cursor` z wartością `pointer`.
 
-**`«С17»`** W stylach nie powtarza się domyślnych wartości właściwości ustawionych przez 
-przeglądarkę. Na przykład, linki nie muszą mieć `cursor: pointer`, akapity nie muszą mieć
-`font-style: normal` lub `font-weight: 400`.
+**`«С17»`** W stylach nie powtarza się domyślnych wartości właściwości
+ustawionych przez przeglądarkę. Na przykład, linki nie muszą mieć
+`cursor: pointer`, akapity nie muszą mieć `font-style: normal` lub
+`font-weight: 400`.
