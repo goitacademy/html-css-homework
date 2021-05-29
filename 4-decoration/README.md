@@ -40,8 +40,7 @@
 **`«A9»`** На всех HTML-страницах подключен нормализатор стилей
 [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
-**`«A10»`** Код написан следуя
-[**руководству**](http://sadcitizen.me/code-guide/).
+**`«A10»`** Код написан следуя [**руководству**](https://codeguide.co/).
 
 ### Разметка
 

@@ -29,8 +29,7 @@
 **`«A7»`** На всех HTML-страницах подключен нормализатор стилей
 [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
-**`«A7»`** Код написан следуя
-[**руководству**](http://sadcitizen.me/code-guide/).
+**`«A7»`** Код написан следуя [**руководству**](https://codeguide.co/).
 
 ### Оформление
 

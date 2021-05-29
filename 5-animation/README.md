@@ -24,8 +24,7 @@
 **`«A4»`** На всех HTML-страницах подключен нормализатор стилей
 [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
-**`«A5»`** Код написан следуя
-[**руководству**](http://sadcitizen.me/code-guide/).
+**`«A5»`** Код написан следуя [**руководству**](https://codeguide.co/).
 
 **`«A6»`** Скрипт модального окна подключен в HTML отдельным файлом `modal.js`.
 
