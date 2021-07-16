@@ -39,24 +39,20 @@ que s encuentra en la carpeta de imágenes. `images`.
 
 **`«B1»`** Se utilizan gráficos vectoriales en formato `svg` para todos los iconos..
 
-**`«B2»`** SVG-иконки экспортированы правильно. При экспорте выбрана «группа», а
-не сам вектор.
+**`«B2»`** Los iconos SVG se exportan correctamente. Al exportar, se selecciona "grupo", no el vector en sí.
 
-**`«B3»`** Все иконки из SVG-спрайта добавлены в HTML при помощи тегов `<svg>` и
+**`«B3»`** Todos los iconos del Sprite SVG se agregan al HTML con las etiquetas `<svg>` y
 `<use>`
 
-**`«B4»`** Размеры иконок взяты из макета и заданы элементу `<svg>` в
-HTML-файле.
+**`«B4»`** Los tamaños de los iconos se toman del diseño y establecen al elemento `<svg>` en el archivo HTML.
+**`«B5»`** En el bloque `Contactos` en el encabezado, se han agregado los iconos del sobre y del teléfono.
+**`«B6»`** En la sección `Ventajas` se han añadido iconos.
 
-**`«B5»`** В блоке `Контактов` в шапке, добавлены иконки конверта и телефона.
+**`«B7»`** En la sección ` Órdenes` están añadidos los iconos de las redes sociales.
 
-**`«B6»`** В секции `Преимуществ` добавлены иконки.
+**`«B8»`** Los iconos de empresa se añaden en la sección `Clientes`.
 
-**`«B7»`** В секции `Команды` добавлены иконки соцсетей.
-
-**`«B8»`** В секции `Клиентов` добавлены иконки компаний.
-
-**`«B9»`** В `футере` добавлены иконки соцсетей.
+**`«B9»`** Los iconos de redes sociales se agregan en el `pie de página`.
 
 ### El diseño
 
