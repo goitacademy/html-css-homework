@@ -1,69 +1,66 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Leer en otros idiomas: [Ruso](README.md), [Ucraniano](README.ua.md),
+[Polaco](README.pl.md).**
 
-# Домашнее задание
+# La tarea de casa
 
-- Создай репозиторий `goit-markup-hw-01`.
-- Выполни HTML-разметку макета страницы
-  [**домашнего задания #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>),
-  без CSS оформления.
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Cree el repositorio `goit-markup-hw-01`.
+- Realice un marcado HTML para el diseño de página
+  [**la tarea de casa #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>),
+  sin estilo CSS.
+- Configure las `GitHub Pages` y agregue un enlace a la página en vivo en el encabezado del repositorio de
+  GitHub.
 
-## Критерии приёма работы наставником
+## Los criterios de aceptación de trabajo por parte del tutor
 
-### Проект
+### El proyecto
 
-**`«A1»`** Главный HTML-файл называется `index.html`.
+**`«A1»`** El archivo HTML principal se llama `index.html`.
 
-**`«A2»`** В корне проекта есть папка `images` с изображениями.
+**`«A2»`** En la raíz del proyecto, hay una carpeta llamada `images` con imágenes.
 
-**`«A3»`** В названиях файлов нет заглавных букв, пробелов и транслита, только
-буквы и слова английского языка.
+**`«A3»`** No hay letras mayúsculas, espacios y transliteración en los nombres de los archivos, solo las letras y palabras en inglés.
 
-**`«A4»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A4»`** El código fuente está formateado con  `Prettier`.
 
-**`«A5»`** Все изображения и текстовый контент взяты из макета.
+**`«A5»`** Todas las imágenes y el contenido del texto se toman del diseño.
 
-**`«A6»`** Все растровые изображения оптимизированы используя
+**`«A6»`** Todas las imágenes rasterizadas se optimizan utilizando
 [squoosh](https://squoosh.app/).
 
-**`«A7»`** Код написан следуя [**руководству**](https://codeguide.co/).
+**`«A7»`** El código está escrito siguiendo la [**guía**](https://codeguide.co/).
 
-### Разметка
+### El marcado
 
-**`«B1»`** Разметка страницы `Студия` набрана в файле `index.html`.
+**`«B1»`** El diseño de la página de `Studio` está en el archivo `index.html`.
 
-**`«B2»`** Выполнена HTML-разметка всех элементов макета.
+**`«B2»`** El marcado HTML se realiza para todos los elementos de diseño.
 
-**`«B3»`** Теги использованы согласно их семантического смысла.
+**`«B3»`** Las etiquetas se utilizan según su sentido semántico.
 
-**`«B4»`** HTML проходит проверку [**валидатором**](http://validator.w3.org/nu/)
-без ошибок.
+**`«B4»`** El HTML puede ser validado usando [**validator**](http://validator.w3.org/nu/)
+sin errores.
 
-**`«B5»`** В разметке есть теги для выделения основной структуры страницы:
-`<header>`, `<main>` и `<footer>`.
+**`«B5»`** El marcado tiene etiquetas para resaltar la estructura principal de la página:
+`<header>`, `<main>` y `<footer>`.
 
-**`«B6»`** Логотип в хедере и футере - это ссылка с текстом, не изображение.
+**`«B6»`** El logo en el encabezado y pie de página es un enlace con texto, no una imagen.
+**`«B7»`** La etiqueta `<nav>` se usa solo una vez, en el encabezado de la página.
 
-**`«B7»`** Тег `<nav>` использован единожды на странице – в хедере.
+**`«B8»`** Los contactos en el encabezado (correo y teléfono) están fuera de la etiqueta `<nav>`.
 
-**`«B8»`** Контакты в хедере (почта и телефон) находятся вне тега `<nav>`.
+**`«B9»`** La etiqueta `<h1>` se usa solo una vez en la página.
 
-**`«B9»`** Тег `<h1>` использован один раз на странице.
-
-**`«B10»`** Элемент с текстом `"Заказать услугу"` - это кнопка с
+**`«B10»`** El elemento com texto `"Solicitar un servicio"` - es botón con
 `type="button"`.
 
-**`«B11»`** Заголовки секций размечены тегом `<h2>`.
+**`«B11»`** Los encabezados de sección están marcados con la etiqueta `<h2>`.
 
-**`«B12»`** У тегов `<img>` указаны атрибуты размеров, как минимум `width`.
+**`«B12»`** Las etiquetas `<img>` >` tienen los atributos de dimensión, al menos `width`.
 
-**`«B13»`** У тегов `<img>` есть атрибут `alt`, который заполнен кратким
-описанием о том, что изображено на картинке.
+**`«B13»`** Las etiquetas `<img>` tienen el atributo `alt`, que contiene una breve descripción de lo que se muestra en la imagen.
 
-**`«B14»`** Изображения экспортированы из макета в формате `jpg`.
+**`«B14»`** Las imágenes se exportan desde el diseño en formato `jpg`.
 
-**`«B15»`** Группы однотипных элементов собраны в списки `<ul>`.
+**`«B15»`** Los grupos de elementos del mismo tipo están en las listas  `<ul>`.
 
-**`«B16»`** Тег `<address>` использован только в футере.
+**`«B16»`** La etiqueta `<address>` solo se usa en el pie de página.
