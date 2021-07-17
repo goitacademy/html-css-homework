@@ -56,19 +56,14 @@ que s encuentra en la carpeta de imágenes. `images`.
 
 ### El diseño
 
-**`«C1»`** Большое изображение с эффектом затемнения (под хедером) выполнено как
-фон. Для затемнения используется многослойный фон с градиентом.
+**`«C1»`** Se crea una imagen grande con un efecto de oscurecimiento (debajo del encabezado) como el fondo. Para oscurecer, se utiliza un fondo multicapa con un degradado.
 
-**`«C2»`** Фоновое изображение в блоке под хедером не растягивается шире своего
-оригинального размера `1600рх`.
+**`«C2»`** La imagen de fondo en el bloque debajo del encabezado no se extiende más que su tamaño original `1600рх`.
 
-**`«C3»`** В карточках секции `Наша команда` есть постоянный эффект тени.
+**`«C3»`** Hay un efecto de sombra permanente en las cartas de la sección `Nuestro equipo`.
 
-**`«C4»`** В карточках страницы `Портфолио` есть эффект тени при ховере в любом
-месте карточки.
+**`«C4»`** En las tarjetas de `Portafolio` hay un efecto de sombra al pasar el cursor sobre cualquier parte de la tarjeta.
 
-**`«C5»`** В фильтре (список кнопок) страницы `Портфолио` есть эффект тени при
-ховере или фокусе на кнопки.
+**`«C5»`** En el filtro (lista de botones) de la página `Portafolio`, hay un efecto de sombra al pasar el cursor sobre los botones o enfocar con el teclado.
 
-**`«C6»`** При ховере или фокусе, иконки должны переходить в активное
-состояние - изменять цвет, если это указано в макете.
+**`«C6»`** Al pasar el mouse o enfocar con el teclado, todos los iconos deben cambiar a un estado activo, es decir, cambiar de color, si se especifica en el diseño.
