@@ -37,7 +37,7 @@ que s encuentra en la carpeta de imágenes. `images`.
 
 ### El marcado
 
-**`«B1»`** Se utilizan gráficos vectoriales en formato `svg` para todos los iconos..
+**`«B1»`** Se utilizan gráficos vectoriales en formato `svg` para todos los iconos.
 
 **`«B2»`** Los iconos SVG se exportan correctamente. Al exportar, se selecciona "grupo", no el vector en sí.
 
