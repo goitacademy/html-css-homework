@@ -1,7 +1,7 @@
 **Leer en otros idiomas: [Ruso](README.md), [Ucraniano](README.ua.md),
 [Polaco](README.pl.md).**
 
-# La tarea de casa
+# Tarea
 
 - Cree el repositorio `goit-markup-hw-07`.
 - Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
@@ -39,7 +39,7 @@
 
 **`«B3»`** Nomenclatura adecuada de clases de modificadores según la metodología BEM.
 
-**`«B4»`** Nomenclatura adecuada de clases mixin según metodología BEM.
+**`«B4»`** Nomenclatura adecuada de clases 'mixin' según metodología BEM.
 
 **`«B5»`** Los nombres de las clases de BEM son claros y descriptivos, todos son en inglés.
 
