@@ -1,7 +1,7 @@
 **Leer en otros idiomas: [Ruso](README.md), [Ucraniano](README.ua.md),
 [Polaco](README.pl.md).**
 
-# La tarea de casa
+# Tarea
 
 - Cree el repositorio `goit-markup-hw-08`.
 - Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
@@ -17,7 +17,7 @@
 
 **`«A2»`** Se utiliza el preproceso `SASS`.
 
-**`«A3»`**  En los archivos `index.html` y `portfolio.html` hay un archivo de estilo minificado enlazado `main.min.css` de la carpeta `css`.
+**`«A3»`** En los archivos `index.html` y `portfolio.html` hay un archivo de estilo minificado enlazado `main.min.css` de la carpeta `css`.
 
 **`«A4»`** Al ver la página en cualquier dispositivo con un ancho de `320px`, no aparece ninguna barra de desplazamiento horizontal.
 
@@ -28,7 +28,7 @@
 
 **`«B1»`** Todas las páginas en el bloque `<head>` tienen una metaetiqueta `viewport`.
 
-**`«B2»`** Todas las imágenes rasterizadas de fondo y contenido - responden y admiten densidad de píxeles `x1` y `x2`.
+**`«B2»`** Todas las imágenes rasterizadas de fondo y contenido responden y admiten densidad de píxeles `x1` y `x2`.
 
 **`«B3»`** Las imágenes de contenido responsivo usan el elemento `<img>` con atributo `srcset` el descriptor `x`.
 
