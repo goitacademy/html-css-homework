@@ -1,7 +1,7 @@
 **Leer en otros idiomas: [Ruso](README.md), [Ucraniano](README.ua.md),
 [Polaco](README.pl.md).**
 
-# La tarea de casa
+# Tarea
 - Cree el repositorio `goit-markup-hw-02`.
 - Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
 - Realice el marcado y el diseño de la página para
@@ -47,7 +47,7 @@ sin errores.
 
 **`«B6»`** Los nombres de las clases no contienen letras mayúsculas, espacios, transliteración y nombres de etiquetas, solo letras y palabras en inglés. Si el nombre de una clase consta de varias palabras, están separadas por un guión.
 
-**`«B7»`** El atributo `href` de los enlaces de navegación de  `Studio` y `Portafolio`contiene una ruta relativa a los archivos HTML de estas páginas. Cuando hace clic en un enlace, accede a la página correspondiente en la pestaña del navegador actual.
+**`«B7»`** El atributo `href` de los enlaces de navegación de `Studio` y `Portafolio` contiene una ruta relativa a los archivos HTML de estas páginas. Cuando hace clic en un enlace, accede a la página correspondiente en la pestaña del navegador actual.
 
 **`«B8»`** Las etiquetas `<img>` tienen los atributos de dimensión, al menos `width`.
 
