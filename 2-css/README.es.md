@@ -34,7 +34,7 @@
 
 ### El marcado
 
-**`«B1»`** El diseño de la página `Portafolio.` está en el archivo  `portfolio.html`.
+**`«B1»`** El diseño de la página `Portafolio` está en el archivo  `portfolio.html`.
 
 **`«B2»`** El marcado HTML se realiza para todos los elementos de diseño.
 
