@@ -1,7 +1,7 @@
 **Leer en otros idiomas: [Ruso](README.md), [Ucraniano](README.ua.md),
 [Polaco](README.pl.md).**
 
-# La tarea de casa
+#  Tarea 
 
 - Cree el repositorio `goit-markup-hw-03`.
 - Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
@@ -18,7 +18,7 @@
 
 **`«A2»`** En la raíz del proyecto, hay una carpeta llamada `css` con archivos de estilos.
 
-**`«A3»`** Todos los estilos están contenidos en un archivo `styles.css`,que se encuentra en la carpeta`css`.
+**`«A3»`** Todos los estilos están contenidos en un archivo `styles.css`, que se encuentra en la carpeta`css`.
 
 **`«A4»`** No hay letras mayúsculas, espacios y transliteración en los nombres de los archivos, solo las letras y palabras en inglés.
 
