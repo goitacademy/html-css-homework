@@ -1,125 +1,103 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Leer en otros idiomas: [Ruso](README.md), [Ucraniano](README.ua.md),
+[Polaco](README.pl.md).**
 
-# Домашнее задание
-
-- Создай репозиторий `goit-markup-hw-02`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Выполни разметку и оформление макета страницы
-  [**домашнего задания #2**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
-- Для оптимизации изображений используй сервис
+# Tarea
+- Cree el repositorio `goit-markup-hw-02`.
+- Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
+- Realice el marcado y el diseño de la página para
+  [**la tarea de casa #2**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
+- Para la optimización de imágenes, utilice 
   [**squoosh**](https://squoosh.app/).
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Configure las `GitHub Pages` y agregue un enlace a la página en vivo en el encabezado del repositorio de
+  GitHub.
 
-## Критерии приёма работы наставником
+## Los criterios de aceptación de trabajo por parte del tutor
 
-### Проект
+### El proyecto
 
-**`«A1»`** В корне проекта есть папка `images` с изображениями.
+**`«A1»`** En la raíz del proyecto, hay una carpeta llamada `images` con imágenes.
 
-**`«A2»`** В корне проекта есть папка `css` с файлами стилей.
+**`«A2»`** En la raíz del proyecto, hay una carpeta llamada `css` con archivos de estilos.
 
-**`«A3»`** Все стили написаны в одном файле `styles.css`, который находится в
-папке `css`.
+**`«A3»`** Todos los estilos están contenidos en un archivo `styles.css`, que se encuentra en la carpeta `css`.
 
-**`«A4»`** В названиях файлов нет заглавных букв, пробелов и транслита, только
-буквы и слова английского языка.
+**`«A4»`** No hay letras mayúsculas, espacios y transliteración en los nombres de los archivos, solo las letras y palabras en inglés.
 
-**`«A5»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A5»`** El código fuente está formateado con `Prettier`.
 
-**`«A6»`** Все изображения и текстовый контент взяты из макета.
+**`«A6»`** Todas las imágenes y el contenido del texto se toman del diseño.
 
-**`«A7»`** Все растровые изображения оптимизированы используя
+**`«A7»`** Todas las imágenes rasterizadas se optimizan utilizando
 [squoosh](https://squoosh.app/).
 
-**`«A8»`** Код написан следуя [**руководству**](https://codeguide.co/).
+**`«A8»`** El código está escrito siguiendo la  [**guía**](https://codeguide.co/).
 
-### Разметка
+### El marcado
 
-**`«B1»`** Разметка страницы `Портфолио` набрана в файле `portfolio.html`.
+**`«B1»`** El diseño de la página `Portafolio` está en el archivo  `portfolio.html`.
 
-**`«B2»`** Выполнена HTML-разметка всех элементов макета.
+**`«B2»`** El marcado HTML se realiza para todos los elementos de diseño.
 
-**`«B3»`** Теги использованы согласно их семантического смысла.
+**`«B3»`** Las etiquetas se utilizan según su semántica.
 
-**`«B4»`** HTML проходит проверку [**валидатором**](http://validator.w3.org/nu/)
-без ошибок.
+**`«B4»`** El HTML puede ser validado usando  [**validator**](http://validator.w3.org/nu/)
+sin errores.
 
-**`«B5»`** Имена классов описательные и понятные другому разработчику.
+**`«B5»`** Los nombres de las clases son descriptivos y pueden ser entendidos por otros desarrolladores.
 
-**`«B6»`** Имена классов не содержат заглавных букв, пробелов, транслита и
-названий тегов, только буквы и слова английского языка. Если имя класса состоит
-из нескольких слов, они разделяются дефисом.
+**`«B6»`** Los nombres de las clases no contienen letras mayúsculas, espacios, transliteración y nombres de etiquetas, solo letras y palabras en inglés. Si el nombre de una clase consta de varias palabras, están separadas por un guión.
 
-**`«B7»`** Атрибут `href` навигационных ссылок `Студия` и `Портфолио` содержит
-относительный путь к HTML-файлам этих страниц. При нажатии по ссылке происходит
-переход на соответствующую страницу в текущей вкладке браузера.
+**`«B7»`** El atributo `href` de los enlaces de navegación de `Studio` y `Portafolio` contiene una ruta relativa a los archivos HTML de estas páginas. Cuando hace clic en un enlace, accede a la página correspondiente en la pestaña del navegador actual.
 
-**`«B8»`** У тегов `<img>` указаны атрибуты размеров, как минимум `width`.
+**`«B8»`** Las etiquetas `<img>` tienen los atributos de dimensión, al menos `width`.
 
-**`«B9»`** Изображения экспортированы из макета в формате `jpg`.
+**`«B9»`** Las imágenes se exportan desde el diseño en formato `jpg`.
 
-**`«B10»`** Группы однотипных элементов собраны в списки `<ul>`.
+**`«B10»`** Los grupos de elementos del mismo tipo están en las listas `<ul>`.
 
-**`«B11»`** Фильтр на странице `Портфолио` выполнен списком кнопок, каждой из
-которых задан атрибут `type="button"`.
+**`«B11»`** El filtro en la página de `Portafolio` es una lista de botones, cada uno de los cuales tiene el atributo `type="button"`.
 
-**`«B12»`** Разметка хедера и футера одинаковая на всех страницах.
+**`«B12»`** El marcado de encabezado y pie de página es el mismo en todas las páginas.
 
-**`«B13»`** Все необходимые по макету шрифты и их вариации (вес и начертание)
-подключены с сервиса Google Fonts одной ссылкой. Необходимый вес для `Raleway` –
-700, а для `Roboto` – 400, 500, 700 и 900.
+**`«B13»`** Todas las fuentes y sus variaciones (peso y tipo) necesarias para el diseño están vinculadas desde el servicio Google Fonts con un enlace. El peso requerido para `Raleway` es 700, y para `Roboto` es 400, 500, 700 y 900.
 
-**`«B14»`** Внутри разметки кнопок нет дополнительных элементов, например спанов
-или ссылок.
+**`«B14»`** No hay elementos adicionales, como intervalos o enlaces, dentro del marcado del botón.
 
-## Оформление
+## El diseño
 
-**`«C1»`** Нет глобальных стилей элементов кроме `<body>`.
+**`«C1»`** No hay estilos de elementos globales excepto `<body>`.
 
-**`«C2»`** Для оформления используются селекторы класса.
+**`«C2»`** Los selectores de clase se utilizan para diseñar.
 
-**`«C3»`** В стилях отсутствует `!important`.
+**`«C3»`** En los estilos faltan `!important`.
 
-**`«C4»`** У интерактивных элементов (кнопок и ссылок), при наведении мышкой или
-фокусе с клавиатуры, есть активное состояние указанное в макете (изменение
-цвета).
+**`«C4»`** Los elementos interactivos (botones y enlaces), al pasar el cursor o enfocar con el teclado, tienen un estado activo especificado en el diseño (el cambio de color).
 
-**`«С5»`** Текст контактов в хедере и футере меняет цвет при ховере и фокусе.
+**`«С5»`** El texto de los contactos en el encabezado y pie de página cambia de color al pasar el cursor por encima o al enfocar con el teclado.
 
-**`«C6»`** Для хранения палитры цветов макета (текст, фон, выделение)
-используются CSS-переменные.
+**`«C6»`** Las variables CSS se utilizan para almacenar la paleta de colores del diseño (texto, fondo, resaltado).
 
-**`«С7»`** Для элемента `<body>` задано свойство `font-family` с доминантным на
-макете шрифтом `Roboto`.
+**`«С7»`** El elemento `<body>` tiene la propiedad `font-family` con la fuente dominante `Roboto` en el diseño.
 
-**`«С8»`** Указаны альтернативные варианты шрифта и тип семейства (без засечек)
-в конце перечисления `font-family` у элемента `<body>`.
+**`«С8»`** Al final de la enumeración `font-family` en el elemento `<body>` se indican las opciones de fuente alternativas y el tipo de familia (sans-serif).
 
-**`«С9»`** Семейство шрифтов `Roboto` явно задано только для элемента `<body>`,
-остальные элементы наследуют его.
+**`«С9»`** La familia de fuentes `Roboto` se establece explícitamente solo para el elemento `<body>`,
+mientras que el resto de los elementos lo heredan.
 
-**`«С10»`** Для элемента `<body>` задано свойство `color` с доминантным на
-макете цветом текста. Остальной текст наследует или переопределяет это значение.
+**`«С10»`** El elemento `<body>` tiene la propiedad `color` con un color de texto dominante en el diseño. El resto del texto hereda o anula este valor.
 
-**`«С11»`** Размер шрифта (свойство `font-size`) всех текстовых элементов точно
-соответствует значениям из макета.
+**`«С11»`** El tamaño de fuente (la propiedad `font-size`) de todos los elementos del texto coincide exactamente con los valores del diseño.
 
-**`«С12»`** Высота строки (свойство `line-height`) всех текстовых элементов
-точно соответствует значениям из макета и задана как множитель, а не в `px`.
+**`«С12»`** La altura de línea (la propiedad `line-height`) de todos los elementos de texto coincide exactamente con los valores del diseño, y se establece como un multiplicador, no en `px`.
 
-**`«С13»`** Цвет (свойство `color`) всех текстовых элементов точно соответствует
-значениям из макета.
+**`«С13»`** El color (la propiedad `color`) de todos los elementos de texto coincide exactamente con los valores del diseño.
 
-**`«С14»`** Вес шрифта (свойство `font-weight`) всех текстовых элементов точно
-соответствует значениям из макета.
+**`«С14»`** El peso de la fuente (la propiedad `font-weight`) de todos los elementos de texto coincide exactamente con los valores del diseño.
 
-**`«С15»`** Вес шрифта (свойство `font-weight`) явно указан только если значение
-в макете отличается от стандартного для этого элемента в браузере.
+**`«С15»`** El peso de la fuente (la propiedad `font-weight`) se especifica explícitamente solo si el valor en el diseño difiere del estándar para este elemento en el navegador.
 
-**`«С16»`** Кнопкам задано свойство `cursor` со значением `pointer`.
+**`«С16»`** Todos los botones tienen la propiedad  `cursor` con el valor de `pointer`.
 
-**`«С17»`** В стилях не повторяются значения свойств, которые заданы браузером
-по умолчнаию. Например, ссылкам не нужно указывать `cursor: pointer`, а абзацам
-`font-style: normal` или `font-weight: 400`.
+**`«С17»`** Los estilos no duplican los valores de propiedad predeterminados establecidos por el navegador. Por ejemplo, los enlaces no necesitan especificar `cursor: pointer`, los párrafos no necesitan especificar
+`font-style: normal` o `font-weight: 400`.
+

@@ -1,85 +1,69 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Leer en otros idiomas: [Ruso](README.md), [Ucraniano](README.ua.md),
+[Polaco](README.pl.md).**
 
-# Домашнее задание
+# Tarea
 
-- Создай репозиторий `goit-markup-hw-04`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Добавь разметку и оформление иконок и декоративных эффектов для страниц из
-  макета
-  [**домашнего задания #4**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A293>).
-- Для генерации SVG-спрайта используй сервис [**Icomoon**](https://icomoon.io/).
-- Для оптимизации созданного SVG-спрайта используй сервис
+- Cree el repositorio `goit-markup-hw-04`.
+- Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
+- Agregue marcado, diseño de iconos y efectos decorativos a las páginas de maqueta de
+  [**la tarea de casa #4**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A293>).
+- Para generar un sprite SVG, utilice el servicio [**Icomoon**](https://icomoon.io/).
+- Para optimizar el sprite SVG generado, use el servicio
   [**svgomg**](https://jakearchibald.github.io/svgomg/).
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Configure las `GitHub Pages` y agregue un enlace a la página en vivo en el encabezado del repositorio de
+  GitHub.
 
-## Критерии приёма работы наставником
+## Los criterios de aceptación de trabajo por parte del tutor
+### El proyecto
 
-### Проект
+**`«A1»`** En la raíz del proyecto, hay una carpeta llamada `images` con imágenes.
+**`«A2»`** Todas las imágenes vectoriales (iconos) se recopilan en el sprite SVG `icons.svg`,
+que s encuentra en la carpeta de imágenes. `images`.
 
-**`«A1»`** В корне проекта есть папка `images` с изображениями.
+**`«A3»`** Todas las imágenes vectoriales están optimizadas.
 
-**`«A2»`** Все векторные изображения (иконки) собраны в SVG-спрайт `icons.svg`,
-который лежит в папке `images`.
+**`«A4»`** En la raíz del proyecto, hay una carpeta llamada `css` con archivos de estilos.
 
-**`«A3»`** Все векторные изображения оптимизированы.
+**`«A5»`** Todos los estilos están contenidos en un archivo `styles.css`,que se encuentra en la carpeta`css`.
 
-**`«A4»`** В корне проекта есть папка `css` с файлами стилей.
+**`«A6»`** No hay letras mayúsculas, espacios y transliteración en los nombres de los archivos, solo las letras y palabras en inglés.
+**`«A7»`** El código fuente está formateado con   `Prettier`.
 
-**`«A5»`** Все стили написаны в одном файле `styles.css`, который находится в
-папке `css`.
-
-**`«A6»`** В названиях файлов нет заглавных букв, пробелов и транслита, только
-буквы и слова английского языка.
-
-**`«A7»`** Исходный код отформатирован при помощи `Prettier`.
-
-**`«A8»`** Все изображения и текстовый контент взяты из макета.
-
-**`«A9»`** На всех HTML-страницах подключен нормализатор стилей
+**`«A8»`** Todas las imágenes y el contenido del texto se toman del diseño.
+**`«A9»`** Todas las páginas HTML tienen un normalizador de estilo
 [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
-**`«A10»`** Код написан следуя [**руководству**](https://codeguide.co/).
+**`«A10»`** El código está escrito siguiendo [**la guía**](https://codeguide.co/).
 
-### Разметка
+### El marcado
 
-**`«B1»`** Для всех иконок используется векторная графика в формате `svg`.
+**`«B1»`** Se utilizan gráficos vectoriales en formato `svg` para todos los íconos.
 
-**`«B2»`** SVG-иконки экспортированы правильно. При экспорте выбрана «группа», а
-не сам вектор.
+**`«B2»`** Los íconos SVG se exportan correctamente. Al exportar, se selecciona "grupo", no el vector en sí.
 
-**`«B3»`** Все иконки из SVG-спрайта добавлены в HTML при помощи тегов `<svg>` и
+**`«B3»`** Todos los íconos del Sprite SVG se agregan al HTML con las etiquetas `<svg>` y
 `<use>`
 
-**`«B4»`** Размеры иконок взяты из макета и заданы элементу `<svg>` в
-HTML-файле.
+**`«B4»`** Los tamaños de los íconos se toman del diseño y establecen al elemento `<svg>` en el archivo HTML.
+**`«B5»`** En el bloque `Contactos` en el encabezado, se han agregado los iconos del sobre y del teléfono.
+**`«B6»`** En la sección `Ventajas` se han añadido íconos.
 
-**`«B5»`** В блоке `Контактов` в шапке, добавлены иконки конверта и телефона.
+**`«B7»`** En la sección `Órdenes` están añadidos los íconos de las redes sociales.
 
-**`«B6»`** В секции `Преимуществ` добавлены иконки.
+**`«B8»`** Los íconos de empresa se añaden en la sección `Clientes`.
 
-**`«B7»`** В секции `Команды` добавлены иконки соцсетей.
+**`«B9»`** Los íconos de redes sociales se agregan en el `pie de página`.
 
-**`«B8»`** В секции `Клиентов` добавлены иконки компаний.
+### El diseño
 
-**`«B9»`** В `футере` добавлены иконки соцсетей.
+**`«C1»`** Se crea una imagen grande con un efecto de obscurecimiento (debajo del encabezado) como el fondo. Para oscurecer, se utiliza un fondo multicapa con un degradado.
 
-### Оформление
+**`«C2»`** La imagen de fondo en el bloque debajo del encabezado no se extiende más que su tamaño original `1600рх`.
 
-**`«C1»`** Большое изображение с эффектом затемнения (под хедером) выполнено как
-фон. Для затемнения используется многослойный фон с градиентом.
+**`«C3»`** Hay un efecto de sombra permanente en las cartas de la sección `Nuestro equipo`.
 
-**`«C2»`** Фоновое изображение в блоке под хедером не растягивается шире своего
-оригинального размера `1600рх`.
+**`«C4»`** En las tarjetas de `Portafolio` hay un efecto de sombra al pasar el cursor sobre cualquier parte de la tarjeta.
 
-**`«C3»`** В карточках секции `Наша команда` есть постоянный эффект тени.
+**`«C5»`** En el filtro (lista de botones) de la página `Portafolio`, hay un efecto de sombra al pasar el cursor sobre los botones o enfocar con el teclado.
 
-**`«C4»`** В карточках страницы `Портфолио` есть эффект тени при ховере в любом
-месте карточки.
-
-**`«C5»`** В фильтре (список кнопок) страницы `Портфолио` есть эффект тени при
-ховере или фокусе на кнопки.
-
-**`«C6»`** При ховере или фокусе, иконки должны переходить в активное
-состояние - изменять цвет, если это указано в макете.
+**`«C6»`** Al pasar el mouse o enfocar con el teclado, todos los íconos deben cambiar a un estado activo, es decir, cambiar de color, si se especifica en el diseño.

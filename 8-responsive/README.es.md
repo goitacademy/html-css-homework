@@ -1,58 +1,58 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Leer en otros idiomas: [Ruso](README.md), [Ucraniano](README.ua.md),
+[Polaco](README.pl.md).**
 
-# Домашнее задание
+# Tarea
 
-- Создай репозиторий `goit-markup-hw-08`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Выполни вёрстку адаптивной версии всех страниц и элементов макета
-  [**домашнего задания #8**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A3330>).
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Cree el repositorio `goit-markup-hw-08`.
+- Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
+- Haga el diseño de versiones receptivas de todas las páginas y de diseño de
+  [**la tarea de casa #8**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A3330>).
+- Configure las `GitHub Pages` y agregue un enlace a la página en vivo en el
+  encabezado del repositorio de GitHub.
 
-## Критерии приёма работы наставником
+## Los criterios de aceptación de trabajo por parte del tutor
 
-### Проект
+### El proyecto
 
-**`«A1»`** Используется методология `BEM`.
+**`«A1»`** Se utiliza la metodología `BEM`.
 
-**`«A2»`** Ипользуется препроцессов `SASS`.
+**`«A2»`** Se utiliza el preproceso `SASS`.
 
-**`«A3»`** В файлах `index.html` и `portfolio.html` подключен минифицированный
-файл стилей `main.min.css` из папки `css`.
+**`«A3»`** En los archivos `index.html` y `portfolio.html` hay un archivo de
+estilo minificado enlazado `main.min.css` de la carpeta `css`.
 
-**`«A4»`** При просмотре страницы на любом устройстве шириной от `320px`, не
-появляется горизонтальная полоса прокрутки.
+**`«A4»`** Al ver la página en cualquier dispositivo con un ancho de `320px`, no
+aparece ninguna barra de desplazamiento horizontal.
 
-**`«A5»`** Скрипт мобильного меню подключен в HTML отдельным файлом
-`mobile-menu.js`.
+**`«A5»`** El script de menú móvil está vinculado en HTML como un archivo
+separado `mobile-menu.js`.
 
-## Разметка
+## El marcado
 
-**`«B1»`** У всех страниц в блоке `<head>` есть метатег `viewport`.
+**`«B1»`** Todas las páginas en el bloque `<head>` tienen una metaetiqueta
+`viewport`.
 
-**`«B2»`** Все фоновые и контентные растровые изображения - отзывчивые, и
-поддерживают экраны с плотностью `x1` и `x2`.
+**`«B2»`** Todas las imágenes rasterizadas de fondo y contenido responden y
+admiten densidad de píxeles `x1` y `x2`.
 
-<!-- **`«B3»`** Для отзывчивых контентных изображений использован элемент `<img>` с
-атрибутом `srcset` и дескриптором `x`. -->
+<!-- **`«B3»`** Las imágenes de contenido responsivo usan el elemento `<img>` con atributo `srcset` el descriptor `x`. -->
 
-**`«B3»`** Для отзывчивых фоновых изображений использованы медиа-фукцнии
-`min-device-pixel-ratio` и `min-resolution`.
+**`«B3»`** Para imágenes de fondo receptivas, se utilizan las funciones
+multimedia `min-device-pixel-ratio` y `min-resolution`.
 
-**`«B4»`** Выполнена разметка мобильного меню.
+**`«B4»`** El marcado del menú móvil está hecho.
 
-## Оформление
+## El diseño
 
-**`«C1»`** При написании стилей использован `Mobile First` подход и
-медиа-функция `(min-width: )`.
+**`«C1»`** Al escribir los estilos se usa el enfoque `Mobile First` y la función
+de medios `(min-width: )`.
 
-**`«C2»`** Стили необходимые только в определённом промежутке, закрыты в
-медиа-запросы `(min-width: ) and (max-width: )` или только `(max-width: )`.
+**`«C2»`** Los estilos son necesarios solo en un cierto intervalo, cerrados en
+consultas de medios `(min-width: ) and (max-width: )` o solo `(max-width: )`.
 
-**`«C3»`** В медиа-запросах отсутствует лишнее дублирование стилей.
+**`«C3»`** No hay duplicación innecesaria de estilos en las consultas de medios.
 
-**`«C4»`** Вёрстка выполнена относительно трёх точек перелома: 480px, 768px и
-1200px.
+**`«C4»`** El diseño se realiza en relación con tres puntos de transición:
+480px, 768px y 1200px.
 
-**`«C5»`** Выполнено оформление мобильного меню.
+**`«C5»`** El diseño del menú móvil está hecho.

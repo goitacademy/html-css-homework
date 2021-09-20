@@ -1,86 +1,71 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md),
-[Polska](README.pl.md).**
+**Leer en otros idiomas: [Ruso](README.md), [Ucraniano](README.ua.md),
+[Polaco](README.pl.md).**
 
-# Домашнее задание
+#  Tarea 
 
-- Создай репозиторий `goit-markup-hw-03`.
-- Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.
-- Добавь стили для геометрии (ширины, отступы, поля и рамки) и позиционирование
-  контента при помощи Flexbox для страниц макета
-  [**домашнего задания #3**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Cree el repositorio `goit-markup-hw-03`.
+- Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
+- Agregue estilos para geometría (ancho, márgenes, rellenos y bordes) y posicionamiento de contenido con Flexbox para el diseño de página de
+  [**la tarea de casa #3**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
+- Configure las `GitHub Pages` y agregue un enlace a la página en vivo en el encabezado del repositorio de GitHub.
 
-## Критерии приёма работы наставником
 
-### Проект
+## Los criterios de aceptación de trabajo por parte del tutor
+### El proyecto
 
-**`«A1»`** В корне проекта есть папка `images` с изображениями.
 
-**`«A2»`** В корне проекта есть папка `css` с файлами стилей.
+**`«A1»`** En la raíz del proyecto, hay una carpeta llamada `images` con imágenes.
 
-**`«A3»`** Все стили написаны в одном файле `styles.css`, который находится в
-папке `css`.
+**`«A2»`** En la raíz del proyecto, hay una carpeta llamada `css` con archivos de estilos.
 
-**`«A4»`** В названиях файлов нет заглавных букв, пробелов и транслита, только
-буквы и слова английского языка.
+**`«A3»`** Todos los estilos están contenidos en un archivo `styles.css`, que se encuentra en la carpeta`css`.
 
-**`«A5»`** Исходный код отформатирован при помощи `Prettier`.
+**`«A4»`** No hay letras mayúsculas, espacios y transliteración en los nombres de los archivos, solo las letras y palabras en inglés.
 
-**`«A6»`** Все изображения и текстовый контент взяты из макета.
+**`«A5»`** El código fuente está formateado con `Prettier`.
 
-**`«A7»`** На всех HTML-страницах подключен нормализатор стилей
+**`«A6»`** Todas las imágenes y el contenido del texto se toman del diseño.
+
+**`«A7»`** Todas las páginas HTML tienen un normalizador de estilo
 [`modern-nomalize`](https://github.com/sindresorhus/modern-normalize).
 
-**`«A7»`** Код написан следуя [**руководству**](https://codeguide.co/).
+**`«A7»`** El código está escrito siguiendo la  [**guía**](https://codeguide.co/).
 
-### Оформление
+### El diseño
 
-**`«B1»`** Допускается глобальный сброс стилей по селектору тега для элементов
-`<h1>...<h6>`, `<p>` и `<ul>`.
+**`«B1»`** Se permite el restablecimiento de estilo global usando el selector de etiquetas para elementos tales como
+`<h1>...<h6>`, `<p>` y `<ul>`.
 
-**`«B2»`** У элементов нет внешних отступов (свойство `margin`) «пробивающих»
-родительский элемент.
+**`«B2»`** Los elementos no tienen márgenes (la propiedad `margin`) que "atraviesen" el elemento principal.
 
-**`«B3»`** В однострочных коллекциях элементов очищен крайний левый или правый
-`margin` элементов (если он есть).
+**`«B3»`** En las colecciones de elementos de una línea, se borra el extremo izquierdo o derecho del
+`margin` de los elementos (si lo hay).
 
-**`«B4»`** Для отступов между двумя соседними элементами используется свойство
-`margin`.
+**`«B4»`** La propiedad `margin` se utiliza para los márgenes entre dos elementos adyacentes.
 
-**`«B5»`** Для зазора между границей родителя и его ребёнком используется
-свойство `padding`.
+**`«B5»`** La propiedad de `padding` se usa para el espacio entre el borde del padre y su hijo.
 
-**`«B6»`** Размеры внешних отступов (свойство `margin`) и внутренних полей
-(свойство `padding`) элементов заданы точно по макету.
+**`«B6»`** Todos los márgenes (la propiedad `margin`) y rellenos
+(la propiedad `padding`) de los elementos se establecen exactamente en línea con el diseño.
 
-**`«B7»`** Создан общий вспомогательный класс `.container` для центрирования и
-ограничения контента по ширине.
+**`«B7»`** Hay una clase auxiliar genérica `.container` para centrar y restringir el ancho del contenido.
 
-**`«B8»`** Ширина «контейнера» соответствует макету и равна `1200px`.
+**`«B8»`** El ancho del «contenedor» coincide con el diseño y es igual a `1200px`.
 
-**`«B9»`** «Контейнер» оборачивает контент хедера, футера и секций. То есть
-находится внутри них.
+**`«B9»`** El "contenedor" envuelve el encabezado, el pie de página y el contenido de la sección. Es decir, está dentro de ellos.
 
-**`«B10»`** Для расположения элементов используется `Flexbox`, но только там,
-где это необходимо. Например в шапке, навигации, списках в секциях и так далее,
-то есть там, где расположить элементы горизонтально по другому невозможно.
+**`«B10»`** `Flexbox`se utiliza para organizar elementos, pero solo cuando sea necesario. Por ejemplo, en el encabezado, navegación, listas en secciones, etc., es decir, donde es imposible ordenar los elementos horizontalmente de otra manera.
 
-**`«B11»`** Финальные размеры блоков в браузере соответствуют макету.
+**`«B11»`** Las dimensiones finales de los bloques en el navegador corresponden al diseño.
 
-**`«B12»`** У элементов нет фиксированной высоты, она определяется их контентом.
+**`«B12»`** Los elementos no tienen una altura fija porque está determinada por su contenido.
 
-**`«B13»`** У хедера есть нижняя рамка, необходимо сильно приблизить макет чтобы
-увидеть её.
+**`«B13»`** El encabezado tiene un borde inferior, necesitas acercar mucho el diseño para verlo.
+**`«B14»`** La disposición de las secciones es similar a una pila de libros, sin márgenes.
 
-**`«B14»`** Секции расположены друг под другом как стопка книг, без внешних
-отступов.
+**`«B15»`** Se utiliza una clase para todas las secciones `.section`, y tienen un relleno superior e inferior en `94px`, empujando el contenido dentro de la sección.
 
-**`«B15»`** Для всех секций используется один класс `.section`, заданы верхние и
-нижние падинги по `94px`, отодвигающие контент внутрь секции.
+**`«B16»`** Las cuadrículas se crean utilizando la técnica descrita en los apuntes y en el taller audiovisual. 
 
-**`«B16»`** Для построения сеток используется техника описанная в конспекте и
-видео-мастерской.
-
-**`«B17»`** В карточках на странице `Портфолио` есть рамка (свойство `border`),
-но только в нижней части карточки.
+**`«B17»`** Las tarjetas de la página `Portafolio` tienen un borde (propiedad de `border`),
+pero solo en la parte inferior de las tarjetas.
