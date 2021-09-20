@@ -34,13 +34,13 @@ stylów `main.min.css` z folderu `css`.
 **`«B2»`** Wszystkie bitmapy tła i treści są responsywne i obsługują gęstości
 `x1` i `x2`.
 
-**`«B3»`** W przypadku responsywnych obrazów z treścią używany jest element
-`<img>` z atrybutem `srcset` i deskryptorem `x`.
+<!-- **`«B3»`** W przypadku responsywnych obrazów z treścią używany jest element
+`<img>` z atrybutem `srcset` i deskryptorem `x`. -->
 
-**`«B4»`** W przypadku responsywnych obrazów tła używane są funkcje
+**`«B3»`** W przypadku responsywnych obrazów tła używane są funkcje
 multimedialne `min-device-pixel-ratio` i `min-resolution`.
 
-**`«B5»`** Oznaczanie menu mobilnego znacznikami HTML zostało zakończone.
+**`«B4»`** Oznaczanie menu mobilnego znacznikami HTML zostało zakończone.
 
 ## Stylizacja
 

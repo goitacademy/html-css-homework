@@ -35,13 +35,13 @@ horizontal scroll bar appears.
 **`«B2»`** All background and content raster images are responsive and support
 `x1` and `x2` pixel density.
 
-**`«B3»`** Responsive content images use the `<img>` element with the `srcset`
-attribute and `x` descriptor.
+<!-- **`«B3»`** Responsive content images use the `<img>` element with the `srcset`
+attribute and `x` descriptor. -->
 
-**`«B4»`** Responsive background images use such media features as
+**`«B3»`** Responsive background images use such media features as
 `min-device-pixel-ratio` and `min-resolution`.
 
-**`«B5»`** The mobile menu layout is done.
+**`«B4»`** The mobile menu layout is done.
 
 ## Styling
 
