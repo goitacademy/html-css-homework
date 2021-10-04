@@ -1,5 +1,5 @@
 **Read in other languages: [Russian](README.md), [Ukrainian](README.ua.md),
-[Polska](README.pl.md).**
+[English](README.en.md), [Spanish](README.es.md), [Polish](README.pl.md).**
 
 # Homework
 
