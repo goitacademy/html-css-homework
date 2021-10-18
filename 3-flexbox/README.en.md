@@ -15,7 +15,7 @@
 
 ### Project
 
-**`«A1»`** In the root of the project, there is a folder called `images` with
+**`«A1»`** In the root of the project, there is a folder called `images`, containing
 images.
 
 **`«A2»`** In the root of the project, there is a `css` folder with style
@@ -62,12 +62,12 @@ restrict the width of content.
 **`«B8»`** The width of the "container" matches the layout, and it is equal to
 `1200px`.
 
-**`«B9»`** The "container" wraps header, footer and section content. That is, it
-is inside them.
+**`«B9»`** The "container" contains the header, footer and section content. That is, they are 
+inside it.
 
 **`«B10»`** `Flexbox` is used to arrange elements, but only where necessary. For
 example, in the header, navigation, lists in sections, etc., that is, where it
-is impossible to arrange elements horizontally in a different way.
+is impossible to arrange elements horizontally in a customized way.
 
 **`«B11»`** Final box sizes in the browser match the layout.
 
