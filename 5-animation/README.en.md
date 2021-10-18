@@ -61,7 +61,7 @@ are used exclusively for decorative purposes.
 
 ### Modal window
 
-**`«D1»`** The markup and styling of the modal "backdrop" (dark semitransparent
+**`«D1»`** The markup and styling of the modal "backdrop" (dark semi-transparent
 background) are done.
 
 **`«D2»`** "Backdrop" fills 100% of the height and width of the browser viewport
@@ -91,8 +91,8 @@ A modal window with the order form opens by clicking on the "Order a service"
 button. In order for the script to work, you need to add special attributes to
 the markup, used by the script to search for elements:
 
-- `data-modal-open` to the button for modal window opening.
-- `data-modal-close` to the button for modal window closing.
+- `data-modal-open` to the button for modal window opening;
+- `data-modal-close` to the button for modal window closing;
 - `data-modal` to the modal window's backdrop.
 
 Then, before the closing `body` tag, add the `script` tag with a link to the
