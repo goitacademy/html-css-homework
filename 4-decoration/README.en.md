@@ -17,7 +17,7 @@
 
 ### Project
 
-**`«A1»`** In the root of the project, there is a folder called `images` with
+**`«A1»`** In the root of the project, there is a folder called `images`, containing
 images.
 
 **`«A2»`** All vector images (icons) are collected in the `icons.svg` SVG sprite
