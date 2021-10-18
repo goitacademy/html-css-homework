@@ -33,7 +33,7 @@ names, only English letters and words.
 **`«A6»`** All images and text content are taken from the layout.
 
 **`«A7»`** All raster images are optimized using
-[squoosh](https://squoosh.app/).
+[**squoosh**](https://squoosh.app/).
 
 **`«A8»`** The code is in line with the [**guide**](https://codeguide.co/).
 
@@ -96,7 +96,7 @@ hovering over or focusing with the keyboard.
 background, highlighting).
 
 **`«С7»`** The `<body>` element has the `font-family` property with the `Roboto`
-font dominating the layout.
+font as default for the layout.
 
 **`«C8»`** There are alternative font variations and family type (sans serif) at
 the end of `font-family` for the `<body>` element.
@@ -104,8 +104,8 @@ the end of `font-family` for the `<body>` element.
 **`«C9»`** The `Roboto` font family is explicitly set only for the `<body>`
 element, while the rest of the elements inherit it.
 
-**`«С10»`** For the `<body>` element, the `color` property is set to the text
-color dominating the layout. The rest of the text inherits or overrides this
+**`«С10»`** For the `<body>` element, the `color` property is set to the default text
+color of the layout. The rest of the text inherits or overrides this
 value.
 
 **`«С11»`** The font size (`font-size` property) of all text elements exactly
@@ -125,8 +125,7 @@ exactly matches the values from the layout.
 only if the value in the layout differs from the standard for this element in
 the browser.
 
-**`«С16»`** All buttons are set the `cursor` property with the `pointer` value.
+**`«С16»`** All buttons are set to the `cursor` property with the `pointer` value.
 
-**`«С17»`** Styles do not repeat property values that are set by the browser by
-default. For example, links do not need to have `cursor: pointer`, and
+**`«С17»`** Styles do not repeat browser default values. For example, links do not need to have `cursor: pointer`, and
 paragraphs do not require `font-style: normal` or `font-weight: 400`.
