@@ -8,9 +8,11 @@
 - Set up `GitHub Pages` and add a link to the live page in the header of the
   GitHub repository.
 
-## Project file structure
+## Project file structure 
+**!Correct Cyrillic in PNG!**
 
-![Project file structure](./preview.png)
+![Project file structure](./preview.png) 
+
 
 ## Criteria for work acceptance by the tutor
 
