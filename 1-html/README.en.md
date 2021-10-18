@@ -27,7 +27,7 @@ names, only English letters and words.
 **`«A5»`** All images and text content are taken from the layout.
 
 **`«A6»`** All raster images are optimized using
-[squoosh](https://squoosh.app/).
+[**squoosh**](https://squoosh.app/).
 
 **`«A7»`** The code is in line with the [**guide**](https://codeguide.co/).
 
