@@ -16,7 +16,7 @@
 
 **`«A1»`** The main HTML file is called `index.html`.
 
-**`«A2»`** In the root of the project, there is a folder called `images` with
+**`«A2»`** In the root of the project, there is a folder called `images`, which contains
 images.
 
 **`«A3»`** There are no capital letters, spaces and transliteration in the file
