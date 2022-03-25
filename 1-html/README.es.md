@@ -5,7 +5,7 @@
 
 - Cree el repositorio `goit-markup-hw-01`.
 - Realice un marcado HTML para el diseño de página
-  [**la tarea de casa #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>),
+  [**la tarea de casa #1**](<https://www.figma.com/file/oHmmiFKINiQlrPDLpPPSse/Web-Studio-ESP?node-id=0%3A1>),
   sin estilo CSS.
 - Configure las `GitHub Pages` y agregue un enlace a la página en vivo en el
   encabezado del repositorio de GitHub.
@@ -47,7 +47,9 @@ de los archivos, solo las letras y palabras en inglés.
 la página: `<header>`, `<main>` y `<footer>`.
 
 **`«B6»`** El logo en el encabezado y pie de página es un enlace con texto, no
-una imagen. **`«B7»`** La etiqueta `<nav>` se usa solo una vez, en el encabezado
+una imagen. 
+
+**`«B7»`** La etiqueta `<nav>` se usa solo una vez, en el encabezado
 de la página.
 
 **`«B8»`** Los contactos en el encabezado (correo y teléfono) están fuera de la
