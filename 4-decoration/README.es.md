@@ -7,7 +7,7 @@
 - Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
 - Agregue marcado, diseño de iconos y efectos decorativos a las páginas de
   maqueta de
-  [**la tarea de casa #4**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A293>).
+  [**la tarea de casa #4**](<https://www.figma.com/file/efwU6Es4rmb9QOptQ5NXSc/Web-Studio-ESP?node-id=1%3A293>).
 - Para generar un sprite SVG, utilice el servicio
   [**Icomoon**](https://icomoon.io/).
 - Para optimizar el sprite SVG generado, use el servicio
