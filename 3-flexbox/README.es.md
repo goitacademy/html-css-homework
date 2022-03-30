@@ -7,7 +7,7 @@
 - Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
 - Agregue estilos para geometría (ancho, márgenes, rellenos y bordes) y
   posicionamiento de contenido con Flexbox para el diseño de página de
-  [**la tarea de casa #3**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
+  [**la tarea de casa #3**](<https://www.figma.com/file/efwU6Es4rmb9QOptQ5NXSc/Web-Studio-ESP?node-id=1%3A94>).
 - Configure las `GitHub Pages` y agregue un enlace a la página en vivo en el
   encabezado del repositorio de GitHub.
 
