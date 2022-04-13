@@ -6,7 +6,7 @@
 - Cree el repositorio `goit-markup-hw-05`.
 - Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
 - Agregue efectos decorativos animados a las páginas de diseño de
-  [**la tarea de casa #5**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A836>).
+  [**la tarea de casa #5**](<https://www.figma.com/file/efwU6Es4rmb9QOptQ5NXSc/Web-Studio-ESP?node-id=1%3A836>).
 - Configure las `GitHub Pages` y agregue un enlace a la página en vivo en el
   encabezado del repositorio de GitHub.
 
