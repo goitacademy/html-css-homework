@@ -6,7 +6,7 @@
 - Create a repository `goit-markup-hw-02`.
 - Clone the created repository and copy the previous work files into it.
 - Make HTML markup and styling for the
-  [**homework #2**](<https://www.figma.com/file/5vQ5fIsm5p6Mfqhl0Ee2qB/Web-Studio-ENG?node-id=0%3A1>)
+  [**homework #2**](<https://www.figma.com/file/5vQ5fIsm5p6Mfqhl0Ee2qB/Web-Studio-ENG?node-id=1%3A94>)
   page.
 - For image optimization, use [**squoosh**](https://squoosh.app/).
 - Set up `GitHub Pages` and add a link to the live page in the header of the
