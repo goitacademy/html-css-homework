@@ -6,8 +6,7 @@
 - Create a repository `goit-markup-hw-03`.
 - Clone the created repository and copy the previous work files into it.
 - Add styles for geometry (width, margins, paddings and borders) and content
-  positioning with Flexbox for page layout of [**homework #3**]
-  (<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
+  positioning with Flexbox for page layout of [**homework #3**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
 - Set up `GitHub Pages` and add a link to the live page in the header of the
   GitHub repository.
 
