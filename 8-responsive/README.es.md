@@ -6,7 +6,7 @@
 - Cree el repositorio `goit-markup-hw-08`.
 - Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
 - Haga el diseño de versiones receptivas de todas las páginas y de diseño de
-  [**la tarea de casa #8**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A3330>).
+  [**la tarea de casa #8**](<https://www.figma.com/file/efwU6Es4rmb9QOptQ5NXSc/Web-Studio-ESP?node-id=1%3A3329>).
 - Configure las `GitHub Pages` y agregue un enlace a la página en vivo en el
   encabezado del repositorio de GitHub.
 
