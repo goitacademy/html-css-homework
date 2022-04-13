@@ -7,7 +7,7 @@
 - Clone the created repository and copy the previous work files into it.
 - Make the layout of responsive versions of all pages and elements for the
   layout of
-  [**homework #8**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A3330>).
+  [**homework #8**](<https://www.figma.com/file/5vQ5fIsm5p6Mfqhl0Ee2qB/Web-Studio-ENG?node-id=1%3A3329>).
 - Set up `GitHub Pages` and add a link to the live page in the header of the
   GitHub repository.
 
