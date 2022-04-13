@@ -6,7 +6,7 @@
 - Create a repository `goit-markup-hw-04`.
 - Clone the created repository and copy the previous work files into it.
 - Add markup, icon styling and decorative effects to layout pages of
-  [**homework #4**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A293>).
+  [**homework #4**](<https://www.figma.com/file/5vQ5fIsm5p6Mfqhl0Ee2qB/Web-Studio-ENG?node-id=1%3A293>).
 - To generate an SVG sprite, use [**Icomoon**](https://icomoon.io/).
 - To optimize the generated SVG sprite, use
   [**svgomg**](https://jakearchibald.github.io/svgomg/).
