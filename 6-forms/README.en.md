@@ -6,7 +6,7 @@
 - Create a repository `goit-markup-hw-06`.
 - Clone the created repository and copy the previous work files into it.
 - Add markup and form design to layout pages of
-  [**homework #6**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A1821>).
+  [**homework #6**](<https://www.figma.com/file/5vQ5fIsm5p6Mfqhl0Ee2qB/Web-Studio-ENG?node-id=1%3A1821>).
 - Set up `GitHub Pages` and add a link to the live page in the header of the
   GitHub repository.
 
