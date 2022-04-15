@@ -10,7 +10,7 @@
 
 ## Estructura de archivos del proyecto
 
-![Estructura de archivos del proyecto](./preview.png)
+![Estructura de archivos del proyecto](./preview.svg)
 
 ## Los criterios de aceptación de trabajo por parte del tutor
 

@@ -10,7 +10,7 @@
 
 ## Struktura plików projektu
 
-![Struktura plików projektu](./preview.png)
+![Struktura plików projektu](./preview.svg)
 
 ## Kryteria akceptacji projektu przez mentora
 
